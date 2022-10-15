@@ -1,0 +1,1362 @@
+{
+    "place-DB-2240_place-smmnl": {
+        "place1": "place-DB-2240",
+        "place2": "place-smmnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.8,
+        "duration_s": 960
+    },
+    "place-DB-2240_place-asmnl": {
+        "place1": "place-DB-2240",
+        "place2": "place-asmnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.9,
+        "duration_s": 1080
+    },
+    "place-DB-2249_place-fldcr": {
+        "place1": "place-DB-2249",
+        "place2": "place-fldcr",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.1,
+        "duration_s": 1200
+    },
+    "place-DB-2249_place-smmnl": {
+        "place1": "place-DB-2249",
+        "place2": "place-smmnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.2,
+        "duration_s": 1440
+    },
+    "place-DB-2258_place-jfk": {
+        "place1": "place-DB-2258",
+        "place2": "place-jfk",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.2,
+        "duration_s": 1500
+    },
+    "place-DB-2258_place-andrw": {
+        "place1": "place-DB-2258",
+        "place2": "place-andrw",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.1,
+        "duration_s": 1380
+    },
+    "place-DB-2258_place-shmnl": {
+        "place1": "place-DB-2258",
+        "place2": "place-shmnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.0,
+        "duration_s": 1260
+    },
+    "place-DB-2265_place-jfk": {
+        "place1": "place-DB-2265",
+        "place2": "place-jfk",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.2,
+        "duration_s": 1440
+    },
+    "place-DB-2265_place-andrw": {
+        "place1": "place-DB-2265",
+        "place2": "place-andrw",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.5,
+        "duration_s": 660
+    },
+    "place-north_place-sstat": {
+        "place1": "place-sstat",
+        "place2": "place-north",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.1,
+        "duration_s": 1440
+    },
+    "place-armnl_place-sstat": {
+        "place1": "place-sstat",
+        "place2": "place-armnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.8,
+        "duration_s": 1020
+    },
+    "place-boyls_place-sstat": {
+        "place1": "place-sstat",
+        "place2": "place-boyls",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 0.5,
+        "duration_s": 660
+    },
+    "place-gover_place-sstat": {
+        "place1": "place-sstat",
+        "place2": "place-gover",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.7,
+        "duration_s": 900
+    },
+    "place-haecl_place-sstat": {
+        "place1": "place-sstat",
+        "place2": "place-haecl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.8,
+        "duration_s": 960
+    },
+    "place-aqucl_place-sstat": {
+        "place1": "place-sstat",
+        "place2": "place-aqucl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.7,
+        "duration_s": 840
+    },
+    "place-sstat_place-state": {
+        "place1": "place-sstat",
+        "place2": "place-state",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.6,
+        "duration_s": 720
+    },
+    "place-bomnl_place-sstat": {
+        "place1": "place-sstat",
+        "place2": "place-bomnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 0.8,
+        "duration_s": 1080
+    },
+    "place-chncl_place-sstat": {
+        "place1": "place-sstat",
+        "place2": "place-chncl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.4,
+        "duration_s": 480
+    },
+    "place-sstat_place-tumnl": {
+        "place1": "place-sstat",
+        "place2": "place-tumnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.6,
+        "duration_s": 780
+    },
+    "place-WML-0025_place-rugg": {
+        "place1": "place-rugg",
+        "place2": "place-WML-0025",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.3,
+        "duration_s": 1620
+    },
+    "place-kencl_place-rugg": {
+        "place1": "place-rugg",
+        "place2": "place-kencl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.5,
+        "duration_s": 1920
+    },
+    "place-hymnl_place-rugg": {
+        "place1": "place-rugg",
+        "place2": "place-hymnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 1.2,
+        "duration_s": 1560
+    },
+    "place-fenwy_place-rugg": {
+        "place1": "place-rugg",
+        "place2": "place-fenwy",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.3,
+        "duration_s": 1620
+    },
+    "place-brmnl_place-rugg": {
+        "place1": "place-rugg",
+        "place2": "place-brmnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.0,
+        "duration_s": 1320
+    },
+    "place-fenwd_place-rugg": {
+        "place1": "place-rugg",
+        "place2": "place-fenwd",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 1.1,
+        "duration_s": 1380
+    },
+    "place-lngmd_place-rugg": {
+        "place1": "place-rugg",
+        "place2": "place-lngmd",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.8,
+        "duration_s": 1020
+    },
+    "place-mfa_place-rugg": {
+        "place1": "place-rugg",
+        "place2": "place-mfa",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.5,
+        "duration_s": 660
+    },
+    "place-nuniv_place-rugg": {
+        "place1": "place-rugg",
+        "place2": "place-nuniv",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.7,
+        "duration_s": 840
+    },
+    "place-rugg_place-symcl": {
+        "place1": "place-rugg",
+        "place2": "place-symcl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 0.9,
+        "duration_s": 1140
+    },
+    "place-prmnl_place-rugg": {
+        "place1": "place-rugg",
+        "place2": "place-prmnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.1,
+        "duration_s": 1440
+    },
+    "place-bbsta_place-chmnl": {
+        "place1": "place-bbsta",
+        "place2": "place-chmnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.3,
+        "duration_s": 1560
+    },
+    "place-bbsta_place-pktrm": {
+        "place1": "place-bbsta",
+        "place2": "place-pktrm",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.1,
+        "duration_s": 1380
+    },
+    "place-bbsta_place-hymnl": {
+        "place1": "place-bbsta",
+        "place2": "place-hymnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 0.9,
+        "duration_s": 1020
+    },
+    "place-bbsta_place-coecl": {
+        "place1": "place-bbsta",
+        "place2": "place-coecl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.2,
+        "duration_s": 240
+    },
+    "place-armnl_place-bbsta": {
+        "place1": "place-bbsta",
+        "place2": "place-armnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.6,
+        "duration_s": 720
+    },
+    "place-bbsta_place-boyls": {
+        "place1": "place-bbsta",
+        "place2": "place-boyls",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 0.8,
+        "duration_s": 1020
+    },
+    "place-bbsta_place-nuniv": {
+        "place1": "place-bbsta",
+        "place2": "place-nuniv",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.9,
+        "duration_s": 1140
+    },
+    "place-bbsta_place-symcl": {
+        "place1": "place-bbsta",
+        "place2": "place-symcl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 0.7,
+        "duration_s": 840
+    },
+    "place-bbsta_place-prmnl": {
+        "place1": "place-bbsta",
+        "place2": "place-prmnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.4,
+        "duration_s": 540
+    },
+    "place-estav_place-orhte": {
+        "place1": "place-estav",
+        "place2": "place-orhte",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.9,
+        "duration_s": 2340
+    },
+    "place-estav_place-wimnl": {
+        "place1": "place-estav",
+        "place2": "place-wimnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.9,
+        "duration_s": 1020
+    },
+    "place-brdwy_place-wtcst": {
+        "place1": "place-wtcst",
+        "place2": "place-brdwy",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.1,
+        "duration_s": 1380
+    },
+    "place-aqucl_place-wtcst": {
+        "place1": "place-wtcst",
+        "place2": "place-aqucl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.1,
+        "duration_s": 1320
+    },
+    "place-crtst_place-pktrm": {
+        "place1": "place-crtst",
+        "place2": "place-pktrm",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.0,
+        "duration_s": 1260
+    },
+    "place-crtst_place-dwnxg": {
+        "place1": "place-crtst",
+        "place2": "place-dwnxg",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.9,
+        "duration_s": 1080
+    },
+    "place-brdwy_place-crtst": {
+        "place1": "place-crtst",
+        "place2": "place-brdwy",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.0,
+        "duration_s": 1200
+    },
+    "place-boyls_place-crtst": {
+        "place1": "place-crtst",
+        "place2": "place-boyls",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 1.1,
+        "duration_s": 1320
+    },
+    "place-crtst_place-gover": {
+        "place1": "place-crtst",
+        "place2": "place-gover",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.9,
+        "duration_s": 1140
+    },
+    "place-crtst_place-haecl": {
+        "place1": "place-crtst",
+        "place2": "place-haecl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.1,
+        "duration_s": 1320
+    },
+    "place-aqucl_place-crtst": {
+        "place1": "place-crtst",
+        "place2": "place-aqucl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.7,
+        "duration_s": 780
+    },
+    "place-crtst_place-state": {
+        "place1": "place-crtst",
+        "place2": "place-state",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.8,
+        "duration_s": 960
+    },
+    "place-bomnl_place-crtst": {
+        "place1": "place-crtst",
+        "place2": "place-bomnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 1.1,
+        "duration_s": 1320
+    },
+    "place-chncl_place-crtst": {
+        "place1": "place-crtst",
+        "place2": "place-chncl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.9,
+        "duration_s": 1140
+    },
+    "place-crtst_place-tumnl": {
+        "place1": "place-crtst",
+        "place2": "place-tumnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.1,
+        "duration_s": 1380
+    },
+    "place-chmnl_place-north": {
+        "place1": "place-north",
+        "place2": "place-chmnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.8,
+        "duration_s": 960
+    },
+    "place-aqucl_place-north": {
+        "place1": "place-north",
+        "place2": "place-aqucl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.7,
+        "duration_s": 900
+    },
+    "place-bomnl_place-north": {
+        "place1": "place-north",
+        "place2": "place-bomnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 0.4,
+        "duration_s": 600
+    },
+    "place-WML-0025_place-bucen": {
+        "place1": "place-WML-0025",
+        "place2": "place-bucen",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.6,
+        "duration_s": 720
+    },
+    "place-WML-0025_place-buest": {
+        "place1": "place-WML-0025",
+        "place2": "place-buest",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.5,
+        "duration_s": 720
+    },
+    "place-WML-0025_place-bland": {
+        "place1": "place-WML-0025",
+        "place2": "place-bland",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 0.4,
+        "duration_s": 480
+    },
+    "place-WML-0025_place-kencl": {
+        "place1": "place-WML-0025",
+        "place2": "place-kencl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.3,
+        "duration_s": 360
+    },
+    "place-WML-0025_place-hymnl": {
+        "place1": "place-WML-0025",
+        "place2": "place-hymnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 0.7,
+        "duration_s": 840
+    },
+    "place-WML-0025_place-stpul": {
+        "place1": "place-WML-0025",
+        "place2": "place-stpul",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 1.0,
+        "duration_s": 1260
+    },
+    "place-WML-0025_place-kntst": {
+        "place1": "place-WML-0025",
+        "place2": "place-kntst",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 0.9,
+        "duration_s": 1020
+    },
+    "place-WML-0025_place-hwsst": {
+        "place1": "place-WML-0025",
+        "place2": "place-hwsst",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 0.7,
+        "duration_s": 840
+    },
+    "place-WML-0025_place-smary": {
+        "place1": "place-WML-0025",
+        "place2": "place-smary",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.5,
+        "duration_s": 540
+    },
+    "place-WML-0025_place-longw": {
+        "place1": "place-WML-0025",
+        "place2": "place-longw",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.9,
+        "duration_s": 1080
+    },
+    "place-WML-0025_place-fenwy": {
+        "place1": "place-WML-0025",
+        "place2": "place-fenwy",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.4,
+        "duration_s": 480
+    },
+    "place-WML-0025_place-brmnl": {
+        "place1": "place-WML-0025",
+        "place2": "place-brmnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.2,
+        "duration_s": 1440
+    },
+    "place-WML-0025_place-lngmd": {
+        "place1": "place-WML-0025",
+        "place2": "place-lngmd",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.9,
+        "duration_s": 1140
+    },
+    "place-WML-0025_place-mfa": {
+        "place1": "place-WML-0025",
+        "place2": "place-mfa",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.8,
+        "duration_s": 960
+    },
+    "place-WML-0025_place-nuniv": {
+        "place1": "place-WML-0025",
+        "place2": "place-nuniv",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.9,
+        "duration_s": 1080
+    },
+    "place-WML-0025_place-symcl": {
+        "place1": "place-WML-0025",
+        "place2": "place-symcl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 1.0,
+        "duration_s": 1200
+    },
+    "place-WML-0025_place-prmnl": {
+        "place1": "place-WML-0025",
+        "place2": "place-prmnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.0,
+        "duration_s": 1200
+    },
+    "place-WML-0025_place-masta": {
+        "place1": "place-WML-0025",
+        "place2": "place-masta",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.1,
+        "duration_s": 1380
+    },
+    "place-WML-0035_place-wascm": {
+        "place1": "place-WML-0035",
+        "place2": "place-wascm",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.0,
+        "duration_s": 1380
+    },
+    "place-WML-0035_place-alsgr": {
+        "place1": "place-WML-0035",
+        "place2": "place-alsgr",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 0.7,
+        "duration_s": 960
+    },
+    "place-WML-0035_place-wrnst": {
+        "place1": "place-WML-0035",
+        "place2": "place-wrnst",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 0.7,
+        "duration_s": 840
+    },
+    "place-WML-0035_place-grigg": {
+        "place1": "place-WML-0035",
+        "place2": "place-grigg",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 1.0,
+        "duration_s": 1260
+    },
+    "place-WML-0035_place-harvd": {
+        "place1": "place-WML-0035",
+        "place2": "place-harvd",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.9,
+        "duration_s": 1140
+    },
+    "place-WML-0035_place-brico": {
+        "place1": "place-WML-0035",
+        "place2": "place-brico",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 1.1,
+        "duration_s": 1380
+    },
+    "place-WML-0102_place-river": {
+        "place1": "place-WML-0102",
+        "place2": "place-river",
+        "wheelchair_boarding_1": 2,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.7,
+        "duration_s": 780
+    },
+    "place-WML-0102_place-woodl": {
+        "place1": "place-WML-0102",
+        "place2": "place-woodl",
+        "wheelchair_boarding_1": 2,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.5,
+        "duration_s": 1800
+    },
+    "place-coecl_place-knncl": {
+        "place1": "place-knncl",
+        "place2": "place-coecl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.9,
+        "duration_s": 2340
+    },
+    "place-knncl_place-spmnl": {
+        "place1": "place-knncl",
+        "place2": "place-spmnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.3,
+        "duration_s": 1620
+    },
+    "place-knncl_place-lech": {
+        "place1": "place-knncl",
+        "place2": "place-lech",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.1,
+        "duration_s": 1380
+    },
+    "place-chmnl_place-coecl": {
+        "place1": "place-chmnl",
+        "place2": "place-coecl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.1,
+        "duration_s": 1260
+    },
+    "place-armnl_place-chmnl": {
+        "place1": "place-chmnl",
+        "place2": "place-armnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.7,
+        "duration_s": 840
+    },
+    "place-boyls_place-chmnl": {
+        "place1": "place-chmnl",
+        "place2": "place-boyls",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 0.8,
+        "duration_s": 900
+    },
+    "place-chmnl_place-gover": {
+        "place1": "place-chmnl",
+        "place2": "place-gover",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.6,
+        "duration_s": 840
+    },
+    "place-chmnl_place-haecl": {
+        "place1": "place-chmnl",
+        "place2": "place-haecl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.7,
+        "duration_s": 840
+    },
+    "place-chmnl_place-spmnl": {
+        "place1": "place-chmnl",
+        "place2": "place-spmnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.0,
+        "duration_s": 1320
+    },
+    "place-chmnl_place-lech": {
+        "place1": "place-chmnl",
+        "place2": "place-lech",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.4,
+        "duration_s": 1800
+    },
+    "place-aqucl_place-chmnl": {
+        "place1": "place-chmnl",
+        "place2": "place-aqucl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.1,
+        "duration_s": 1320
+    },
+    "place-chmnl_place-state": {
+        "place1": "place-chmnl",
+        "place2": "place-state",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.7,
+        "duration_s": 900
+    },
+    "place-bomnl_place-chmnl": {
+        "place1": "place-chmnl",
+        "place2": "place-bomnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 0.4,
+        "duration_s": 540
+    },
+    "place-ccmnl_place-chmnl": {
+        "place1": "place-chmnl",
+        "place2": "place-ccmnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.6,
+        "duration_s": 2040
+    },
+    "place-chmnl_place-chncl": {
+        "place1": "place-chmnl",
+        "place2": "place-chncl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.9,
+        "duration_s": 1020
+    },
+    "place-chmnl_place-tumnl": {
+        "place1": "place-chmnl",
+        "place2": "place-tumnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.1,
+        "duration_s": 1380
+    },
+    "place-aqucl_place-pktrm": {
+        "place1": "place-pktrm",
+        "place2": "place-aqucl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.7,
+        "duration_s": 840
+    },
+    "place-pktrm_place-state": {
+        "place1": "place-pktrm",
+        "place2": "place-state",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.4,
+        "duration_s": 480
+    },
+    "place-bomnl_place-pktrm": {
+        "place1": "place-pktrm",
+        "place2": "place-bomnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 0.4,
+        "duration_s": 480
+    },
+    "place-chncl_place-pktrm": {
+        "place1": "place-pktrm",
+        "place2": "place-chncl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.3,
+        "duration_s": 360
+    },
+    "place-pktrm_place-tumnl": {
+        "place1": "place-pktrm",
+        "place2": "place-tumnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.6,
+        "duration_s": 660
+    },
+    "place-coecl_place-dwnxg": {
+        "place1": "place-dwnxg",
+        "place2": "place-coecl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.0,
+        "duration_s": 1200
+    },
+    "place-armnl_place-dwnxg": {
+        "place1": "place-dwnxg",
+        "place2": "place-armnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.7,
+        "duration_s": 780
+    },
+    "place-boyls_place-dwnxg": {
+        "place1": "place-dwnxg",
+        "place2": "place-boyls",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 0.3,
+        "duration_s": 420
+    },
+    "place-dwnxg_place-gover": {
+        "place1": "place-dwnxg",
+        "place2": "place-gover",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.4,
+        "duration_s": 480
+    },
+    "place-dwnxg_place-spmnl": {
+        "place1": "place-dwnxg",
+        "place2": "place-spmnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.2,
+        "duration_s": 1560
+    },
+    "place-aqucl_place-dwnxg": {
+        "place1": "place-dwnxg",
+        "place2": "place-aqucl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.6,
+        "duration_s": 720
+    },
+    "place-bomnl_place-dwnxg": {
+        "place1": "place-dwnxg",
+        "place2": "place-bomnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 0.5,
+        "duration_s": 600
+    },
+    "place-armnl_place-brdwy": {
+        "place1": "place-brdwy",
+        "place2": "place-armnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.2,
+        "duration_s": 1500
+    },
+    "place-boyls_place-brdwy": {
+        "place1": "place-brdwy",
+        "place2": "place-boyls",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 1.1,
+        "duration_s": 1320
+    },
+    "place-brdwy_place-chncl": {
+        "place1": "place-brdwy",
+        "place2": "place-chncl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.0,
+        "duration_s": 1260
+    },
+    "place-brdwy_place-tumnl": {
+        "place1": "place-brdwy",
+        "place2": "place-tumnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.8,
+        "duration_s": 1080
+    },
+    "place-kencl_place-masta": {
+        "place1": "place-kencl",
+        "place2": "place-masta",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.9,
+        "duration_s": 1200
+    },
+    "place-hymnl_place-masta": {
+        "place1": "place-hymnl",
+        "place2": "place-masta",
+        "wheelchair_boarding_1": 2,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.5,
+        "duration_s": 720
+    },
+    "place-chncl_place-coecl": {
+        "place1": "place-coecl",
+        "place2": "place-chncl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.8,
+        "duration_s": 960
+    },
+    "place-coecl_place-tumnl": {
+        "place1": "place-coecl",
+        "place2": "place-tumnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.9,
+        "duration_s": 1200
+    },
+    "place-coecl_place-masta": {
+        "place1": "place-coecl",
+        "place2": "place-masta",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.8,
+        "duration_s": 960
+    },
+    "place-armnl_place-state": {
+        "place1": "place-armnl",
+        "place2": "place-state",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.9,
+        "duration_s": 1140
+    },
+    "place-armnl_place-bomnl": {
+        "place1": "place-armnl",
+        "place2": "place-bomnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 0.9,
+        "duration_s": 1080
+    },
+    "place-armnl_place-chncl": {
+        "place1": "place-armnl",
+        "place2": "place-chncl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.4,
+        "duration_s": 540
+    },
+    "place-armnl_place-tumnl": {
+        "place1": "place-armnl",
+        "place2": "place-tumnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.6,
+        "duration_s": 780
+    },
+    "place-armnl_place-masta": {
+        "place1": "place-armnl",
+        "place2": "place-masta",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.1,
+        "duration_s": 1440
+    },
+    "place-aqucl_place-boyls": {
+        "place1": "place-boyls",
+        "place2": "place-aqucl",
+        "wheelchair_boarding_1": 2,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.9,
+        "duration_s": 1140
+    },
+    "place-boyls_place-state": {
+        "place1": "place-boyls",
+        "place2": "place-state",
+        "wheelchair_boarding_1": 2,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.6,
+        "duration_s": 780
+    },
+    "place-bomnl_place-boyls": {
+        "place1": "place-boyls",
+        "place2": "place-bomnl",
+        "wheelchair_boarding_1": 2,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 0.7,
+        "duration_s": 840
+    },
+    "place-boyls_place-chncl": {
+        "place1": "place-boyls",
+        "place2": "place-chncl",
+        "wheelchair_boarding_1": 2,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.1,
+        "duration_s": 120
+    },
+    "place-boyls_place-tumnl": {
+        "place1": "place-boyls",
+        "place2": "place-tumnl",
+        "wheelchair_boarding_1": 2,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.3,
+        "duration_s": 420
+    },
+    "place-chncl_place-gover": {
+        "place1": "place-gover",
+        "place2": "place-chncl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.6,
+        "duration_s": 720
+    },
+    "place-gover_place-tumnl": {
+        "place1": "place-gover",
+        "place2": "place-tumnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.8,
+        "duration_s": 1020
+    },
+    "place-aqucl_place-haecl": {
+        "place1": "place-haecl",
+        "place2": "place-aqucl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.5,
+        "duration_s": 600
+    },
+    "place-bomnl_place-haecl": {
+        "place1": "place-haecl",
+        "place2": "place-bomnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 0.2,
+        "duration_s": 360
+    },
+    "place-aqucl_place-spmnl": {
+        "place1": "place-spmnl",
+        "place2": "place-aqucl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.2,
+        "duration_s": 1500
+    },
+    "place-spmnl_place-state": {
+        "place1": "place-spmnl",
+        "place2": "place-state",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.1,
+        "duration_s": 1320
+    },
+    "place-bomnl_place-spmnl": {
+        "place1": "place-spmnl",
+        "place2": "place-bomnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 2,
+        "distance_mi": 0.7,
+        "duration_s": 960
+    },
+    "place-ccmnl_place-spmnl": {
+        "place1": "place-spmnl",
+        "place2": "place-ccmnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.3,
+        "duration_s": 1560
+    },
+    "place-lech_place-sull": {
+        "place1": "place-lech",
+        "place2": "place-sull",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.3,
+        "duration_s": 1560
+    },
+    "place-ccmnl_place-lech": {
+        "place1": "place-lech",
+        "place2": "place-ccmnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.0,
+        "duration_s": 1140
+    },
+    "place-hsmnl_place-rcmnl": {
+        "place1": "place-hsmnl",
+        "place2": "place-rcmnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.1,
+        "duration_s": 1260
+    },
+    "place-hsmnl_place-jaksn": {
+        "place1": "place-hsmnl",
+        "place2": "place-jaksn",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.8,
+        "duration_s": 900
+    },
+    "place-hsmnl_place-sbmnl": {
+        "place1": "place-hsmnl",
+        "place2": "place-sbmnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.1,
+        "duration_s": 1320
+    },
+    "place-bckhl_place-rcmnl": {
+        "place1": "place-bckhl",
+        "place2": "place-rcmnl",
+        "wheelchair_boarding_1": 2,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.1,
+        "duration_s": 1320
+    },
+    "place-bckhl_place-jaksn": {
+        "place1": "place-bckhl",
+        "place2": "place-jaksn",
+        "wheelchair_boarding_1": 2,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.8,
+        "duration_s": 960
+    },
+    "place-bckhl_place-sbmnl": {
+        "place1": "place-bckhl",
+        "place2": "place-sbmnl",
+        "wheelchair_boarding_1": 2,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.1,
+        "duration_s": 1380
+    },
+    "place-rcmnl_place-rvrwy": {
+        "place1": "place-rvrwy",
+        "place2": "place-rcmnl",
+        "wheelchair_boarding_1": 2,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.9,
+        "duration_s": 1080
+    },
+    "place-jaksn_place-rvrwy": {
+        "place1": "place-rvrwy",
+        "place2": "place-jaksn",
+        "wheelchair_boarding_1": 2,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.0,
+        "duration_s": 1200
+    },
+    "place-mispk_place-rcmnl": {
+        "place1": "place-mispk",
+        "place2": "place-rcmnl",
+        "wheelchair_boarding_1": 2,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.7,
+        "duration_s": 900
+    },
+    "place-jaksn_place-mispk": {
+        "place1": "place-mispk",
+        "place2": "place-jaksn",
+        "wheelchair_boarding_1": 2,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.0,
+        "duration_s": 1320
+    },
+    "place-brmnl_place-rcmnl": {
+        "place1": "place-brmnl",
+        "place2": "place-rcmnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.5,
+        "duration_s": 600
+    },
+    "place-brmnl_place-jaksn": {
+        "place1": "place-brmnl",
+        "place2": "place-jaksn",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.0,
+        "duration_s": 1200
+    },
+    "place-fenwd_place-rcmnl": {
+        "place1": "place-fenwd",
+        "place2": "place-rcmnl",
+        "wheelchair_boarding_1": 2,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.5,
+        "duration_s": 660
+    },
+    "place-fenwd_place-jaksn": {
+        "place1": "place-fenwd",
+        "place2": "place-jaksn",
+        "wheelchair_boarding_1": 2,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.0,
+        "duration_s": 1200
+    },
+    "place-lngmd_place-masta": {
+        "place1": "place-lngmd",
+        "place2": "place-masta",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.0,
+        "duration_s": 1260
+    },
+    "place-lngmd_place-rcmnl": {
+        "place1": "place-lngmd",
+        "place2": "place-rcmnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.5,
+        "duration_s": 660
+    },
+    "place-jaksn_place-lngmd": {
+        "place1": "place-lngmd",
+        "place2": "place-jaksn",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.0,
+        "duration_s": 1260
+    },
+    "place-masta_place-mfa": {
+        "place1": "place-mfa",
+        "place2": "place-masta",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.8,
+        "duration_s": 960
+    },
+    "place-mfa_place-rcmnl": {
+        "place1": "place-mfa",
+        "place2": "place-rcmnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.6,
+        "duration_s": 720
+    },
+    "place-masta_place-nuniv": {
+        "place1": "place-nuniv",
+        "place2": "place-masta",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.4,
+        "duration_s": 480
+    },
+    "place-nuniv_place-rcmnl": {
+        "place1": "place-nuniv",
+        "place2": "place-rcmnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.8,
+        "duration_s": 1020
+    },
+    "place-masta_place-symcl": {
+        "place1": "place-symcl",
+        "place2": "place-masta",
+        "wheelchair_boarding_1": 2,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.1,
+        "duration_s": 180
+    },
+    "place-rcmnl_place-symcl": {
+        "place1": "place-symcl",
+        "place2": "place-rcmnl",
+        "wheelchair_boarding_1": 2,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.1,
+        "duration_s": 1380
+    },
+    "place-prmnl_place-tumnl": {
+        "place1": "place-prmnl",
+        "place2": "place-tumnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.2,
+        "duration_s": 1560
+    },
+    "place-masta_place-prmnl": {
+        "place1": "place-prmnl",
+        "place2": "place-masta",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.4,
+        "duration_s": 480
+    },
+    "place-aqucl_place-chncl": {
+        "place1": "place-aqucl",
+        "place2": "place-chncl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.8,
+        "duration_s": 1080
+    },
+    "place-aqucl_place-tumnl": {
+        "place1": "place-aqucl",
+        "place2": "place-tumnl",
+        "wheelchair_boarding_1": 1,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.1,
+        "duration_s": 1380
+    },
+    "place-bomnl_place-ccmnl": {
+        "place1": "place-bomnl",
+        "place2": "place-ccmnl",
+        "wheelchair_boarding_1": 2,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.5,
+        "duration_s": 1800
+    },
+    "place-bomnl_place-chncl": {
+        "place1": "place-bomnl",
+        "place2": "place-chncl",
+        "wheelchair_boarding_1": 2,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 0.7,
+        "duration_s": 900
+    },
+    "place-bomnl_place-tumnl": {
+        "place1": "place-bomnl",
+        "place2": "place-tumnl",
+        "wheelchair_boarding_1": 2,
+        "wheelchair_boarding_2": 1,
+        "distance_mi": 1.0,
+        "duration_s": 1260
+    }
+}
