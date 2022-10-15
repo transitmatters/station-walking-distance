@@ -1,0 +1,2108 @@
+{
+    "place-DB-0095": {
+        "id": "place-DB-0095",
+        "name": "Readville",
+        "wheelchair_boarding": 1,
+        "address": "1800 Hyde Park Ave, Hyde Park, MA 02136",
+        "lat": 42.238405,
+        "long": -71.133246
+    },
+    "place-DB-2205": {
+        "id": "place-DB-2205",
+        "name": "Fairmount",
+        "wheelchair_boarding": 1,
+        "address": "Fairmount Ave and Truman Hwy, Hyde Park, MA 02136",
+        "lat": 42.253638,
+        "long": -71.11927
+    },
+    "place-DB-2222": {
+        "id": "place-DB-2222",
+        "name": "Blue Hill Avenue",
+        "wheelchair_boarding": 1,
+        "address": "Blue Hill Ave or Cummins Hwy at Woodhaven St, Mattapan, MA 02126",
+        "lat": 42.271466,
+        "long": -71.095782
+    },
+    "place-DB-2230": {
+        "id": "place-DB-2230",
+        "name": "Morton Street",
+        "wheelchair_boarding": 1,
+        "address": "865 Morton St, Mattapan, MA 02126",
+        "lat": 42.280994,
+        "long": -71.085475
+    },
+    "place-DB-2240": {
+        "id": "place-DB-2240",
+        "name": "Talbot Avenue",
+        "wheelchair_boarding": 1,
+        "address": "210 Talbot Ave, Boston, MA 02124",
+        "lat": 42.292246,
+        "long": -71.07814
+    },
+    "place-DB-2249": {
+        "id": "place-DB-2249",
+        "name": "Four Corners/Geneva",
+        "wheelchair_boarding": 1,
+        "address": "171 Geneva Ave, Boston, MA 02121",
+        "lat": 42.305037,
+        "long": -71.076833
+    },
+    "place-DB-2258": {
+        "id": "place-DB-2258",
+        "name": "Uphams Corner",
+        "wheelchair_boarding": 1,
+        "address": "691 Dudley St, Dorchester, MA 02125",
+        "lat": 42.319125,
+        "long": -71.068627
+    },
+    "place-DB-2265": {
+        "id": "place-DB-2265",
+        "name": "Newmarket",
+        "wheelchair_boarding": 1,
+        "address": "1070 Massachusetts Ave, Boston, MA 02118",
+        "lat": 42.327415,
+        "long": -71.065674
+    },
+    "place-sstat": {
+        "id": "place-sstat",
+        "name": "South Station",
+        "wheelchair_boarding": 1,
+        "address": "700 Atlantic Ave, Boston, MA 02110",
+        "lat": 42.352271,
+        "long": -71.055242
+    },
+    "place-rr-ceylon-park": {
+        "id": "place-rr-ceylon-park",
+        "name": "Ceylon Park",
+        "error": "404: Resource Not Found"
+    },
+    "place-rr-river-street": {
+        "id": "place-rr-river-street",
+        "name": "River Street",
+        "error": "404: Resource Not Found"
+    },
+    "place-FB-0303": {
+        "id": "place-FB-0303",
+        "name": "Forge Park/495",
+        "wheelchair_boarding": 1,
+        "address": "1000 W Central St, Franklin, MA 02038",
+        "lat": 42.089941,
+        "long": -71.43902
+    },
+    "place-FB-0275": {
+        "id": "place-FB-0275",
+        "name": "Franklin",
+        "wheelchair_boarding": 2,
+        "address": "75 Depot St, Franklin, MA 02038",
+        "lat": 42.083238,
+        "long": -71.396102
+    },
+    "place-FB-0230": {
+        "id": "place-FB-0230",
+        "name": "Norfolk",
+        "wheelchair_boarding": 1,
+        "address": "9 Rockwood Rd, Norfolk, MA 02056",
+        "lat": 42.120694,
+        "long": -71.325217
+    },
+    "place-FB-0191": {
+        "id": "place-FB-0191",
+        "name": "Walpole",
+        "wheelchair_boarding": 2,
+        "address": "275 West St, Walpole, MA 02081",
+        "lat": 42.145477,
+        "long": -71.25779
+    },
+    "place-FB-0166": {
+        "id": "place-FB-0166",
+        "name": "Windsor Gardens",
+        "wheelchair_boarding": 2,
+        "address": "Buckminster Dr and Engamore Ln, Norwood, MA 02062",
+        "lat": 42.172127,
+        "long": -71.219366
+    },
+    "place-FB-0148": {
+        "id": "place-FB-0148",
+        "name": "Norwood Central",
+        "wheelchair_boarding": 1,
+        "address": "164 Broadway, Norwood, MA 02062",
+        "lat": 42.188775,
+        "long": -71.199665
+    },
+    "place-FB-0143": {
+        "id": "place-FB-0143",
+        "name": "Norwood Depot",
+        "wheelchair_boarding": 1,
+        "address": "14 Hill St, Norwood, MA 02062",
+        "lat": 42.196857,
+        "long": -71.196688
+    },
+    "place-FB-0125": {
+        "id": "place-FB-0125",
+        "name": "Islington",
+        "wheelchair_boarding": 2,
+        "address": "48 Carroll Ave, Westwood, MA 02090",
+        "lat": 42.22105,
+        "long": -71.183961
+    },
+    "place-FB-0118": {
+        "id": "place-FB-0118",
+        "name": "Dedham Corp Center",
+        "wheelchair_boarding": 1,
+        "address": "125 Allied Dr, Dedham, MA 02026",
+        "lat": 42.227079,
+        "long": -71.174254
+    },
+    "place-FB-0109": {
+        "id": "place-FB-0109",
+        "name": "Endicott",
+        "wheelchair_boarding": 2,
+        "address": "186 Grant Ave, Dedham, MA 02026",
+        "lat": 42.233249,
+        "long": -71.158647
+    },
+    "place-rugg": {
+        "id": "place-rugg",
+        "name": "Ruggles",
+        "wheelchair_boarding": 1,
+        "address": "1150 Tremont St, Roxbury, MA 02120",
+        "lat": 42.336377,
+        "long": -71.088961
+    },
+    "place-bbsta": {
+        "id": "place-bbsta",
+        "name": "Back Bay",
+        "wheelchair_boarding": 1,
+        "address": "145 Dartmouth St Boston, MA 02116",
+        "lat": 42.34735,
+        "long": -71.075727
+    },
+    "place-FS-0049": {
+        "id": "place-FS-0049",
+        "name": "Foxboro",
+        "wheelchair_boarding": 1,
+        "address": "Gillette Stadium near Lots 3 and 4, Foxborough, MA 02035",
+        "lat": 42.0951,
+        "long": -71.26151
+    },
+    "place-FB-0177": {
+        "id": "place-FB-0177",
+        "name": "Plimptonville",
+        "wheelchair_boarding": 2,
+        "address": "185 Plimpton St, Walpole, MA 02081",
+        "lat": 42.159123,
+        "long": -71.236125
+    },
+    "place-NEC-2203": {
+        "id": "place-NEC-2203",
+        "name": "Hyde Park",
+        "wheelchair_boarding": 1,
+        "address": "1 Pingree St, Hyde Park, MA 02136",
+        "lat": 42.25503,
+        "long": -71.125526
+    },
+    "place-chels": {
+        "id": "place-chels",
+        "name": "Chelsea",
+        "wheelchair_boarding": 1,
+        "address": "174 Everett Ave, Chelsea, MA 02150",
+        "lat": 42.397024,
+        "long": -71.041314
+    },
+    "place-belsq": {
+        "id": "place-belsq",
+        "name": "Bellingham Square",
+        "wheelchair_boarding": 1,
+        "address": null,
+        "lat": 42.395438,
+        "long": -71.033884
+    },
+    "place-boxdt": {
+        "id": "place-boxdt",
+        "name": "Box District",
+        "wheelchair_boarding": 1,
+        "address": null,
+        "lat": 42.394049,
+        "long": -71.028365
+    },
+    "place-estav": {
+        "id": "place-estav",
+        "name": "Eastern Avenue",
+        "wheelchair_boarding": 1,
+        "address": null,
+        "lat": 42.388374,
+        "long": -71.023859
+    },
+    "place-aport": {
+        "id": "place-aport",
+        "name": "Airport",
+        "wheelchair_boarding": 1,
+        "address": "Transportation Way and Service Rd, Boston, MA 02128",
+        "lat": 42.374262,
+        "long": -71.030395
+    },
+    "place-conrd": {
+        "id": "place-conrd",
+        "name": "Silver Line Way",
+        "wheelchair_boarding": 1,
+        "address": null,
+        "lat": 42.347154,
+        "long": -71.038385
+    },
+    "place-wtcst": {
+        "id": "place-wtcst",
+        "name": "World Trade Center",
+        "wheelchair_boarding": 1,
+        "address": "Congress St and World Trade Center Ave, Boston, MA",
+        "lat": 42.34863,
+        "long": -71.04246
+    },
+    "place-crtst": {
+        "id": "place-crtst",
+        "name": "Courthouse",
+        "wheelchair_boarding": 1,
+        "address": "Seaport Blvd and Pittsburg St, Boston, MA",
+        "lat": 42.35245,
+        "long": -71.04685
+    },
+    "place-dudly": {
+        "id": "place-dudly",
+        "name": "Dudley Square",
+        "error": "404: Resource Not Found"
+    },
+    "place-GB-0353": {
+        "id": "place-GB-0353",
+        "name": "Rockport",
+        "wheelchair_boarding": 1,
+        "address": "17 Railroad Ave, Rockport, MA 01966",
+        "lat": 42.655491,
+        "long": -70.627055
+    },
+    "place-GB-0316": {
+        "id": "place-GB-0316",
+        "name": "Gloucester",
+        "wheelchair_boarding": 1,
+        "address": "75 Railroad Ave, Gloucester, MA 01930",
+        "lat": 42.616799,
+        "long": -70.668345
+    },
+    "place-GB-0296": {
+        "id": "place-GB-0296",
+        "name": "West Gloucester",
+        "wheelchair_boarding": 1,
+        "address": "290 Essex Ave, Gloucester, MA 01930",
+        "lat": 42.611933,
+        "long": -70.705417
+    },
+    "place-GB-0254": {
+        "id": "place-GB-0254",
+        "name": "Manchester",
+        "wheelchair_boarding": 1,
+        "address": "40 Beach St, Manchester, MA 01944",
+        "lat": 42.573687,
+        "long": -70.77009
+    },
+    "place-GB-0229": {
+        "id": "place-GB-0229",
+        "name": "Beverly Farms",
+        "wheelchair_boarding": 1,
+        "address": "1 Oak St, Beverly, MA 01915",
+        "lat": 42.561651,
+        "long": -70.811405
+    },
+    "place-GB-0198": {
+        "id": "place-GB-0198",
+        "name": "Montserrat",
+        "wheelchair_boarding": 1,
+        "address": "180 Essex St, Beverly, MA 01915",
+        "lat": 42.562171,
+        "long": -70.869254
+    },
+    "place-ER-0183": {
+        "id": "place-ER-0183",
+        "name": "Beverly",
+        "wheelchair_boarding": 1,
+        "address": "10 Park St, Beverly, MA 01915",
+        "lat": 42.547276,
+        "long": -70.885432
+    },
+    "place-ER-0168": {
+        "id": "place-ER-0168",
+        "name": "Salem",
+        "wheelchair_boarding": 1,
+        "address": "252 Bridge St, Salem, MA 01970",
+        "lat": 42.524792,
+        "long": -70.895876
+    },
+    "place-ER-0128": {
+        "id": "place-ER-0128",
+        "name": "Swampscott",
+        "wheelchair_boarding": 1,
+        "address": "Burrill St and Railroad Ave, Swampscott, MA 01907",
+        "lat": 42.473743,
+        "long": -70.922537
+    },
+    "place-ER-0115": {
+        "id": "place-ER-0115",
+        "name": "Lynn",
+        "wheelchair_boarding": 1,
+        "address": "325 Broad St, Lynn, MA 01901",
+        "lat": 42.462953,
+        "long": -70.945421
+    },
+    "place-ER-0099": {
+        "id": "place-ER-0099",
+        "name": "River Works",
+        "wheelchair_boarding": 2,
+        "address": "1000 Western Ave, Lynn, MA 01910 (General Electric employees only)",
+        "lat": 42.449927,
+        "long": -70.969848
+    },
+    "place-ER-0046": {
+        "id": "place-ER-0046",
+        "name": "Chelsea",
+        "error": "404: Resource Not Found"
+    },
+    "place-north": {
+        "id": "place-north",
+        "name": "North Station",
+        "wheelchair_boarding": 1,
+        "address": "135 Causeway St, Boston, MA 02114",
+        "lat": 42.365577,
+        "long": -71.06129
+    },
+    "place-ER-0362": {
+        "id": "place-ER-0362",
+        "name": "Newburyport",
+        "wheelchair_boarding": 1,
+        "address": "25 Boston Way, Newburyport, MA 01950",
+        "lat": 42.797837,
+        "long": -70.87797
+    },
+    "place-ER-0312": {
+        "id": "place-ER-0312",
+        "name": "Rowley",
+        "wheelchair_boarding": 1,
+        "address": "70 Railroad Ave, Rowley, MA 01969",
+        "lat": 42.726845,
+        "long": -70.859034
+    },
+    "place-ER-0276": {
+        "id": "place-ER-0276",
+        "name": "Ipswich",
+        "wheelchair_boarding": 1,
+        "address": "4 Peatfield St, Ipswich, MA 01938",
+        "lat": 42.676921,
+        "long": -70.840589
+    },
+    "place-ER-0227": {
+        "id": "place-ER-0227",
+        "name": "Hamilton/Wenham",
+        "wheelchair_boarding": 1,
+        "address": "Bay Rd and Walnut Rd, Hamilton, MA 01982",
+        "lat": 42.609212,
+        "long": -70.874801
+    },
+    "place-ER-0208": {
+        "id": "place-ER-0208",
+        "name": "North Beverly",
+        "wheelchair_boarding": 1,
+        "address": "Enon St and Dodge St, Beverly, MA 01915",
+        "lat": 42.583779,
+        "long": -70.883851
+    },
+    "place-GB-0222": {
+        "id": "place-GB-0222",
+        "name": "Prides Crossing",
+        "wheelchair_boarding": 2,
+        "address": "600 Hale St, Beverly, MA 01915",
+        "lat": 42.559446,
+        "long": -70.825541
+    },
+    "place-rr-everett-jct": {
+        "id": "place-rr-everett-jct",
+        "name": "S. Broadway/Everett Jct",
+        "error": "404: Resource Not Found"
+    },
+    "place-rr-revere-center": {
+        "id": "place-rr-revere-center",
+        "name": "Revere Center",
+        "error": "404: Resource Not Found"
+    },
+    "place-rr-south-salem": {
+        "id": "place-rr-south-salem",
+        "name": "South Salem",
+        "error": "404: Resource Not Found"
+    },
+    "place-FR-3338": {
+        "id": "place-FR-3338",
+        "name": "Wachusett",
+        "wheelchair_boarding": 1,
+        "address": "55 Authority Dr, Fitchburg, MA 01420",
+        "lat": 42.553477,
+        "long": -71.848488
+    },
+    "place-FR-0494": {
+        "id": "place-FR-0494",
+        "name": "Fitchburg",
+        "wheelchair_boarding": 1,
+        "address": "150 Main St, Fitchburg, MA 01420",
+        "lat": 42.58072,
+        "long": -71.792611
+    },
+    "place-FR-0451": {
+        "id": "place-FR-0451",
+        "name": "North Leominster",
+        "wheelchair_boarding": 1,
+        "address": "44 Nashua St, Leominster, MA 01453",
+        "lat": 42.539017,
+        "long": -71.739186
+    },
+    "place-FR-0394": {
+        "id": "place-FR-0394",
+        "name": "Shirley",
+        "wheelchair_boarding": 2,
+        "address": "Ayer Rd and Phoenix St, Shirley, MA 01464",
+        "lat": 42.545089,
+        "long": -71.648004
+    },
+    "place-FR-0361": {
+        "id": "place-FR-0361",
+        "name": "Ayer",
+        "wheelchair_boarding": 2,
+        "address": "70 Main St, Ayer, MA 01432",
+        "lat": 42.559074,
+        "long": -71.588476
+    },
+    "place-FR-0301": {
+        "id": "place-FR-0301",
+        "name": "Littleton/Rte 495",
+        "wheelchair_boarding": 1,
+        "address": "Grimes Ln and Foster St, Littleton, MA 01460",
+        "lat": 42.519236,
+        "long": -71.502643
+    },
+    "place-FR-0253": {
+        "id": "place-FR-0253",
+        "name": "South Acton",
+        "wheelchair_boarding": 1,
+        "address": "4 Central St, Acton, MA 01720",
+        "lat": 42.460375,
+        "long": -71.457744
+    },
+    "place-FR-0219": {
+        "id": "place-FR-0219",
+        "name": "West Concord",
+        "wheelchair_boarding": 1,
+        "address": "Commonwealth Ave and Main St, West Concord, MA 01742",
+        "lat": 42.457043,
+        "long": -71.392892
+    },
+    "place-FR-0201": {
+        "id": "place-FR-0201",
+        "name": "Concord",
+        "wheelchair_boarding": 2,
+        "address": "90 Thoreau St, Concord, MA 01742",
+        "lat": 42.456565,
+        "long": -71.357677
+    },
+    "place-FR-0167": {
+        "id": "place-FR-0167",
+        "name": "Lincoln",
+        "wheelchair_boarding": 2,
+        "address": "160 Lincoln Rd, Lincoln, MA 01773",
+        "lat": 42.41342,
+        "long": -71.325404
+    },
+    "place-FR-0137": {
+        "id": "place-FR-0137",
+        "name": "Hastings",
+        "wheelchair_boarding": 2,
+        "address": "105 Viles St, Weston, MA 02493",
+        "lat": 42.385755,
+        "long": -71.289203
+    },
+    "place-FR-0132": {
+        "id": "place-FR-0132",
+        "name": "Kendal Green",
+        "wheelchair_boarding": 2,
+        "address": "198 Church St, Weston, MA",
+        "lat": 42.37897,
+        "long": -71.282411
+    },
+    "place-FR-0115": {
+        "id": "place-FR-0115",
+        "name": "Brandeis/Roberts",
+        "wheelchair_boarding": 1,
+        "address": "1 Sawyer Rd, Waltham, MA 02453",
+        "lat": 42.361898,
+        "long": -71.260065
+    },
+    "place-FR-0098": {
+        "id": "place-FR-0098",
+        "name": "Waltham",
+        "wheelchair_boarding": 1,
+        "address": "75 Carter St, Waltham, MA 02453",
+        "lat": 42.374269,
+        "long": -71.235598
+    },
+    "place-FR-0074": {
+        "id": "place-FR-0074",
+        "name": "Waverley",
+        "wheelchair_boarding": 2,
+        "address": "525 Trapelo Rd, Belmont, MA 02478",
+        "lat": 42.3876,
+        "long": -71.190744
+    },
+    "place-FR-0064": {
+        "id": "place-FR-0064",
+        "name": "Belmont",
+        "wheelchair_boarding": 2,
+        "address": "Common St and Concord Ave, Belmont, MA 02478",
+        "lat": 42.395896,
+        "long": -71.17619
+    },
+    "place-portr": {
+        "id": "place-portr",
+        "name": "Porter",
+        "wheelchair_boarding": 1,
+        "address": "1899 Massachusetts Ave, Cambridge, MA 02140",
+        "lat": 42.3884,
+        "long": -71.119149
+    },
+    "place-FR-0147": {
+        "id": "place-FR-0147",
+        "name": "Silver Hill",
+        "wheelchair_boarding": 2,
+        "address": "Silver Hill Rd and Merriam St, Weston, MA 02493",
+        "lat": 42.395625,
+        "long": -71.302357
+    },
+    "place-rr-brickbottom": {
+        "id": "place-rr-brickbottom",
+        "name": "Brickbottom",
+        "error": "404: Resource Not Found"
+    },
+    "place-rr-clematis-brook": {
+        "id": "place-rr-clematis-brook",
+        "name": "Clematis Brook/Warrendale",
+        "error": "404: Resource Not Found"
+    },
+    "place-rr-weston-128": {
+        "id": "place-rr-weston-128",
+        "name": "Weston/128",
+        "error": "404: Resource Not Found"
+    },
+    "place-GRB-0276": {
+        "id": "place-GRB-0276",
+        "name": "Greenbush",
+        "wheelchair_boarding": 1,
+        "address": "247 Old Driftway, Scituate, MA 02066",
+        "lat": 42.178776,
+        "long": -70.746641
+    },
+    "place-GRB-0233": {
+        "id": "place-GRB-0233",
+        "name": "North Scituate",
+        "wheelchair_boarding": 1,
+        "address": "777 Country Way, Scituate, MA 02066",
+        "lat": 42.219528,
+        "long": -70.788602
+    },
+    "place-GRB-0199": {
+        "id": "place-GRB-0199",
+        "name": "Cohasset",
+        "wheelchair_boarding": 1,
+        "address": "110 Chief Justice Cushing Hwy, Cohasset, MA 02025",
+        "lat": 42.24421,
+        "long": -70.837529
+    },
+    "place-GRB-0183": {
+        "id": "place-GRB-0183",
+        "name": "Nantasket Junction",
+        "wheelchair_boarding": 1,
+        "address": "190 Summer St, Hingham, MA 02043",
+        "lat": 42.244959,
+        "long": -70.869205
+    },
+    "place-GRB-0162": {
+        "id": "place-GRB-0162",
+        "name": "West Hingham",
+        "wheelchair_boarding": 1,
+        "address": "20 Fort Hill Rd, Hingham, MA 02043",
+        "lat": 42.235838,
+        "long": -70.902708
+    },
+    "place-GRB-0146": {
+        "id": "place-GRB-0146",
+        "name": "East Weymouth",
+        "wheelchair_boarding": 1,
+        "address": "1590 Commercial St, East Weymouth, MA 02189",
+        "lat": 42.2191,
+        "long": -70.9214
+    },
+    "place-GRB-0118": {
+        "id": "place-GRB-0118",
+        "name": "Weymouth Landing/East Braintree",
+        "wheelchair_boarding": 1,
+        "address": "121 Commercial St, Weymouth, MA 02184",
+        "lat": 42.221503,
+        "long": -70.968152
+    },
+    "place-qnctr": {
+        "id": "place-qnctr",
+        "name": "Quincy Center",
+        "wheelchair_boarding": 1,
+        "address": "175 Thomas E Burgin Pkwy, Quincy, MA 02169",
+        "lat": 42.251809,
+        "long": -71.005409
+    },
+    "place-jfk": {
+        "id": "place-jfk",
+        "name": "JFK/UMass",
+        "wheelchair_boarding": 1,
+        "address": "599 Old Colony Ave, Boston, MA 02127-3805",
+        "lat": 42.320685,
+        "long": -71.052391
+    },
+    "place-rr-cohasset-center": {
+        "id": "place-rr-cohasset-center",
+        "name": "Cohasset Center",
+        "error": "404: Resource Not Found"
+    },
+    "place-PB-0281": {
+        "id": "place-PB-0281",
+        "name": "Halifax",
+        "wheelchair_boarding": 1,
+        "address": "6 Garden Rd, Halifax, MA 02338",
+        "lat": 42.014739,
+        "long": -70.824263
+    },
+    "place-PB-0245": {
+        "id": "place-PB-0245",
+        "name": "Hanson",
+        "wheelchair_boarding": 1,
+        "address": "1070 Main St, Hanson, MA 02341",
+        "lat": 42.043967,
+        "long": -70.882438
+    },
+    "place-PB-0212": {
+        "id": "place-PB-0212",
+        "name": "Whitman",
+        "wheelchair_boarding": 1,
+        "address": "383 South Ave, Whitman, MA 02382",
+        "lat": 42.082749,
+        "long": -70.923411
+    },
+    "place-PB-0194": {
+        "id": "place-PB-0194",
+        "name": "Abington",
+        "wheelchair_boarding": 1,
+        "address": "231 Centre Ave, Abington, MA 02351",
+        "lat": 42.107156,
+        "long": -70.934405
+    },
+    "place-PB-0158": {
+        "id": "place-PB-0158",
+        "name": "South Weymouth",
+        "wheelchair_boarding": 1,
+        "address": "89 Trotter Rd, Weymouth, MA 02190",
+        "lat": 42.155025,
+        "long": -70.953302
+    },
+    "place-brntn": {
+        "id": "place-brntn",
+        "name": "Braintree",
+        "wheelchair_boarding": 1,
+        "address": "197 Ivory St, Braintree, MA 02184",
+        "lat": 42.207854,
+        "long": -71.001138
+    },
+    "place-PB-0356": {
+        "id": "place-PB-0356",
+        "name": "Plymouth",
+        "wheelchair_boarding": 1,
+        "address": "385 Court St, Plymouth, MA 02360",
+        "lat": 41.981278,
+        "long": -70.690421
+    },
+    "place-rr-weymouth-col-sq": {
+        "id": "place-rr-weymouth-col-sq",
+        "name": "Weymouth Columbian Square",
+        "error": "404: Resource Not Found"
+    },
+    "place-rockland-n-abington": {
+        "id": "place-rockland-n-abington",
+        "name": "Rockland-North Abington",
+        "error": "404: Resource Not Found"
+    },
+    "place-kingston-jct": {
+        "id": "place-kingston-jct",
+        "name": "Kingston Junction",
+        "error": "404: Resource Not Found"
+    },
+    "place-plymouth-center": {
+        "id": "place-plymouth-center",
+        "name": "Plymouth Center",
+        "error": "404: Resource Not Found"
+    },
+    "place-MM-0356": {
+        "id": "place-MM-0356",
+        "name": "Middleborough/Lakeville",
+        "wheelchair_boarding": 1,
+        "address": "125 Commercial Dr, Lakeville, MA 02347",
+        "lat": 41.87821,
+        "long": -70.918444
+    },
+    "place-MM-0277": {
+        "id": "place-MM-0277",
+        "name": "Bridgewater",
+        "wheelchair_boarding": 1,
+        "address": "85 Burrill Ave, Bridgewater, MA 02324",
+        "lat": 41.984916,
+        "long": -70.96537
+    },
+    "place-MM-0219": {
+        "id": "place-MM-0219",
+        "name": "Campello",
+        "wheelchair_boarding": 1,
+        "address": "30 Riverside Ave, Brockton, MA 02301",
+        "lat": 42.060951,
+        "long": -71.011004
+    },
+    "place-MM-0200": {
+        "id": "place-MM-0200",
+        "name": "Brockton",
+        "wheelchair_boarding": 1,
+        "address": "7 Commercial St, Brockton, MA 02302",
+        "lat": 42.084659,
+        "long": -71.016534
+    },
+    "place-MM-0186": {
+        "id": "place-MM-0186",
+        "name": "Montello",
+        "wheelchair_boarding": 1,
+        "address": "150 Spark St, Brockton, MA 02302",
+        "lat": 42.106555,
+        "long": -71.022001
+    },
+    "place-MM-0150": {
+        "id": "place-MM-0150",
+        "name": "Holbrook/Randolph",
+        "wheelchair_boarding": 1,
+        "address": "Union St and Center St, Randolph, MA 02368",
+        "lat": 42.156343,
+        "long": -71.027371
+    },
+    "place-rr-braintree-highlands": {
+        "id": "place-rr-braintree-highlands",
+        "name": "Braintree Highlands",
+        "error": "404: Resource Not Found"
+    },
+    "place-rr-bridgewater-center": {
+        "id": "place-rr-bridgewater-center",
+        "name": "Bridgewater Center",
+        "error": "404: Resource Not Found"
+    },
+    "place-rr-mboro-centre-st": {
+        "id": "place-rr-mboro-centre-st",
+        "name": "Middleborough Centre St",
+        "error": "404: Resource Not Found"
+    },
+    "place-NB-0137": {
+        "id": "place-NB-0137",
+        "name": "Needham Heights",
+        "wheelchair_boarding": 1,
+        "address": "95 Avery Sq, Needham, MA 02494",
+        "lat": 42.293444,
+        "long": -71.236027
+    },
+    "place-NB-0127": {
+        "id": "place-NB-0127",
+        "name": "Needham Center",
+        "wheelchair_boarding": 1,
+        "address": "Great Plain Ave and Eaton Sq, Needham, MA 02492",
+        "lat": 42.280775,
+        "long": -71.237686
+    },
+    "place-NB-0120": {
+        "id": "place-NB-0120",
+        "name": "Needham Junction",
+        "wheelchair_boarding": 1,
+        "address": "51 Junction St, Needham, MA 02492",
+        "lat": 42.273187,
+        "long": -71.235559
+    },
+    "place-NB-0109": {
+        "id": "place-NB-0109",
+        "name": "Hersey",
+        "wheelchair_boarding": 1,
+        "address": "Great Plain Ave and Broad Meadow Rd, Needham, MA 02492",
+        "lat": 42.275648,
+        "long": -71.215528
+    },
+    "place-NB-0080": {
+        "id": "place-NB-0080",
+        "name": "West Roxbury",
+        "wheelchair_boarding": 1,
+        "address": "450 Lagrange St, West Roxbury, MA 02132",
+        "lat": 42.281358,
+        "long": -71.160065
+    },
+    "place-NB-0076": {
+        "id": "place-NB-0076",
+        "name": "Highland",
+        "wheelchair_boarding": 1,
+        "address": "Corey St and Hastings St, West Roxbury, MA 02132",
+        "lat": 42.284969,
+        "long": -71.153937
+    },
+    "place-NB-0072": {
+        "id": "place-NB-0072",
+        "name": "Bellevue",
+        "wheelchair_boarding": 1,
+        "address": "35 Colbert St, West Roxbury, MA 02132",
+        "lat": 42.286588,
+        "long": -71.145557
+    },
+    "place-NB-0064": {
+        "id": "place-NB-0064",
+        "name": "Roslindale Village",
+        "wheelchair_boarding": 1,
+        "address": "1 Belgrade Ave, Roslindale, MA 02131",
+        "lat": 42.287442,
+        "long": -71.130283
+    },
+    "place-forhl": {
+        "id": "place-forhl",
+        "name": "Forest Hills",
+        "wheelchair_boarding": 1,
+        "address": "Washington St and Hyde Park Ave, Jamaica Plain, MA 02130",
+        "lat": 42.300523,
+        "long": -71.113686
+    },
+    "place-NEC-1659": {
+        "id": "place-NEC-1659",
+        "name": "Wickford Junction",
+        "wheelchair_boarding": 1,
+        "address": "1011 Ten Rod Rd, North Kingstown, RI",
+        "lat": 41.581289,
+        "long": -71.491147
+    },
+    "place-NEC-1768": {
+        "id": "place-NEC-1768",
+        "name": "TF Green Airport",
+        "wheelchair_boarding": 1,
+        "address": "700 Jefferson Blvd, Warwick, RI 02886",
+        "lat": 41.726599,
+        "long": -71.442453
+    },
+    "place-NEC-1851": {
+        "id": "place-NEC-1851",
+        "name": "Providence",
+        "wheelchair_boarding": 1,
+        "address": "100 Gaspee St, Providence, RI 02903",
+        "lat": 41.829293,
+        "long": -71.413301
+    },
+    "place-NEC-1919": {
+        "id": "place-NEC-1919",
+        "name": "South Attleboro",
+        "wheelchair_boarding": 1,
+        "address": "1315 Newport Ave, Attleboro, MA 02703",
+        "lat": 41.897943,
+        "long": -71.354621
+    },
+    "place-NEC-1969": {
+        "id": "place-NEC-1969",
+        "name": "Attleboro",
+        "wheelchair_boarding": 1,
+        "address": "133 South Main St, Attleboro, MA 02703",
+        "lat": 41.940739,
+        "long": -71.285094
+    },
+    "place-NEC-2040": {
+        "id": "place-NEC-2040",
+        "name": "Mansfield",
+        "wheelchair_boarding": 1,
+        "address": "1 Crocker St, Mansfield, MA 02048",
+        "lat": 42.032787,
+        "long": -71.219917
+    },
+    "place-NEC-2108": {
+        "id": "place-NEC-2108",
+        "name": "Sharon",
+        "wheelchair_boarding": 1,
+        "address": "1 Upland Rd, Sharon, MA 02067",
+        "lat": 42.124553,
+        "long": -71.184468
+    },
+    "place-NEC-2139": {
+        "id": "place-NEC-2139",
+        "name": "Canton Junction",
+        "wheelchair_boarding": 1,
+        "address": "Beaumont St and Sherman St, Canton, MA 02021",
+        "lat": 42.163204,
+        "long": -71.15376
+    },
+    "place-NEC-2173": {
+        "id": "place-NEC-2173",
+        "name": "Route 128",
+        "wheelchair_boarding": 1,
+        "address": "50 University Ave, Westwood, MA 02090",
+        "lat": 42.210308,
+        "long": -71.147134
+    },
+    "place-SB-0189": {
+        "id": "place-SB-0189",
+        "name": "Stoughton",
+        "wheelchair_boarding": 1,
+        "address": "45 Wyman St, Stoughton, MA 02072",
+        "lat": 42.124084,
+        "long": -71.103627
+    },
+    "place-SB-0156": {
+        "id": "place-SB-0156",
+        "name": "Canton Center",
+        "wheelchair_boarding": 1,
+        "address": "710 Washington St, Canton, MA 02021",
+        "lat": 42.157095,
+        "long": -71.14628
+    },
+    "place-rr-pawtucket": {
+        "id": "place-rr-pawtucket",
+        "name": "Pawtucket",
+        "error": "404: Resource Not Found"
+    },
+    "place-rr-tufts-university": {
+        "id": "place-rr-tufts-university",
+        "name": "Tufts University",
+        "error": "404: Resource Not Found"
+    },
+    "place-NHRML-0055": {
+        "id": "place-NHRML-0055",
+        "name": "West Medford",
+        "wheelchair_boarding": 2,
+        "address": "481 High St, Medford, MA 02155",
+        "lat": 42.421776,
+        "long": -71.133342
+    },
+    "place-NHRML-0073": {
+        "id": "place-NHRML-0073",
+        "name": "Wedgemere",
+        "wheelchair_boarding": 1,
+        "address": "25 Mystic Valley Pkwy, Winchester, MA 01890",
+        "lat": 42.444948,
+        "long": -71.140169
+    },
+    "place-NHRML-0078": {
+        "id": "place-NHRML-0078",
+        "name": "Winchester Center",
+        "wheelchair_boarding": 2,
+        "address": "29 Waterfield Rd, Winchester, MA 01890",
+        "lat": 42.451088,
+        "long": -71.13783
+    },
+    "place-rr-montvale-avenue": {
+        "id": "place-rr-montvale-avenue",
+        "name": "Montvale Avenue",
+        "error": "404: Resource Not Found"
+    },
+    "place-NHRML-0116": {
+        "id": "place-NHRML-0116",
+        "name": "Mishawum",
+        "wheelchair_boarding": 2,
+        "address": "250 Mishawum Rd, Woburn, MA 01801",
+        "lat": 42.504402,
+        "long": -71.137618
+    },
+    "place-NHRML-0127": {
+        "id": "place-NHRML-0127",
+        "name": "Anderson/Woburn",
+        "wheelchair_boarding": 1,
+        "address": "100 Atlantic Ave, Woburn, MA 01801",
+        "lat": 42.516987,
+        "long": -71.144475
+    },
+    "place-NHRML-0152": {
+        "id": "place-NHRML-0152",
+        "name": "Wilmington",
+        "wheelchair_boarding": 1,
+        "address": "405 Main St, Wilmington, MA 01887",
+        "lat": 42.546624,
+        "long": -71.174334
+    },
+    "place-NHRML-0218": {
+        "id": "place-NHRML-0218",
+        "name": "North Billerica",
+        "wheelchair_boarding": 1,
+        "address": "Ruggles St and Station St, North Billerica, MA 01862",
+        "lat": 42.593248,
+        "long": -71.280995
+    },
+    "place-NHRML-0254": {
+        "id": "place-NHRML-0254",
+        "name": "Lowell",
+        "wheelchair_boarding": 1,
+        "address": "101 Thorndike St, Lowell, MA 01852",
+        "lat": 42.63535,
+        "long": -71.314543
+    },
+    "place-WR-0329": {
+        "id": "place-WR-0329",
+        "name": "Haverhill",
+        "wheelchair_boarding": 1,
+        "address": "1 Washington Ave, Haverhill, MA 01832",
+        "lat": 42.773474,
+        "long": -71.086237
+    },
+    "place-WR-0325": {
+        "id": "place-WR-0325",
+        "name": "Bradford",
+        "wheelchair_boarding": 1,
+        "address": "10 Railroad Ave, Bradford, MA 01835",
+        "lat": 42.766912,
+        "long": -71.088411
+    },
+    "place-WR-0264": {
+        "id": "place-WR-0264",
+        "name": "Lawrence",
+        "wheelchair_boarding": 1,
+        "address": "S Union St and Merrimack St, Lawrence, MA 01843",
+        "lat": 42.701806,
+        "long": -71.15198
+    },
+    "place-WR-0228": {
+        "id": "place-WR-0228",
+        "name": "Andover",
+        "wheelchair_boarding": 1,
+        "address": "17 Railroad St, Andover, MA 01810",
+        "lat": 42.658336,
+        "long": -71.144502
+    },
+    "place-WR-0205": {
+        "id": "place-WR-0205",
+        "name": "Ballardvale",
+        "wheelchair_boarding": 1,
+        "address": "195 Andover St, Andover, MA 01810",
+        "lat": 42.627356,
+        "long": -71.159962
+    },
+    "place-WR-0163": {
+        "id": "place-WR-0163",
+        "name": "North Wilmington",
+        "wheelchair_boarding": 2,
+        "address": "370 Middlesex Ave, Wilmington, MA 01887",
+        "lat": 42.569661,
+        "long": -71.159696
+    },
+    "place-WR-0120": {
+        "id": "place-WR-0120",
+        "name": "Reading",
+        "wheelchair_boarding": 1,
+        "address": "35 Lincoln St, Reading, MA 01867",
+        "lat": 42.52221,
+        "long": -71.108294
+    },
+    "place-WR-0099": {
+        "id": "place-WR-0099",
+        "name": "Wakefield",
+        "wheelchair_boarding": 2,
+        "address": "225 North Ave, Wakefield, MA 01880",
+        "lat": 42.502126,
+        "long": -71.075566
+    },
+    "place-WR-0085": {
+        "id": "place-WR-0085",
+        "name": "Greenwood",
+        "wheelchair_boarding": 2,
+        "address": "907 Main St, Wakefield, MA 01880",
+        "lat": 42.483005,
+        "long": -71.067247
+    },
+    "place-WR-0075": {
+        "id": "place-WR-0075",
+        "name": "Melrose Highlands",
+        "wheelchair_boarding": 1,
+        "address": "497 Franklin St, Melrose, MA 02176",
+        "lat": 42.469464,
+        "long": -71.068297
+    },
+    "place-WR-0067": {
+        "id": "place-WR-0067",
+        "name": "Melrose Cedar Park",
+        "wheelchair_boarding": 2,
+        "address": "Cedar Park and West Emerson St, Melrose, MA 02176",
+        "lat": 42.458768,
+        "long": -71.069789
+    },
+    "place-WR-0062": {
+        "id": "place-WR-0062",
+        "name": "Wyoming Hill",
+        "wheelchair_boarding": 2,
+        "address": "40 West Wyoming Ave, Melrose, MA 02176",
+        "lat": 42.451731,
+        "long": -71.069379
+    },
+    "place-mlmnl": {
+        "id": "place-mlmnl",
+        "name": "Malden Center",
+        "wheelchair_boarding": 1,
+        "address": "Commercial St and Pleasant St, Malden, MA 02148",
+        "lat": 42.426632,
+        "long": -71.07411
+    },
+    "place-WML-0025": {
+        "id": "place-WML-0025",
+        "name": "Lansdowne",
+        "wheelchair_boarding": 1,
+        "address": "85 Brookline Ave Boston, MA 02215",
+        "lat": 42.347581,
+        "long": -71.099974
+    },
+    "place-WML-0035": {
+        "id": "place-WML-0035",
+        "name": "Boston Landing",
+        "wheelchair_boarding": 1,
+        "address": "100 Arthur St, Boston, MA 02134",
+        "lat": 42.357293,
+        "long": -71.139883
+    },
+    "place-WML-0081": {
+        "id": "place-WML-0081",
+        "name": "Newtonville",
+        "wheelchair_boarding": 2,
+        "address": "770 Washington St, Newton, MA 02460",
+        "lat": 42.351702,
+        "long": -71.205408
+    },
+    "place-WML-0091": {
+        "id": "place-WML-0091",
+        "name": "West Newton",
+        "wheelchair_boarding": 2,
+        "address": "1395 Washington St, Newton, MA 02465",
+        "lat": 42.347878,
+        "long": -71.230528
+    },
+    "place-WML-0102": {
+        "id": "place-WML-0102",
+        "name": "Auburndale",
+        "wheelchair_boarding": 2,
+        "address": "Auburn St and Woodland Rd, Newton, MA 02466",
+        "lat": 42.345833,
+        "long": -71.250373
+    },
+    "place-WML-0125": {
+        "id": "place-WML-0125",
+        "name": "Wellesley Farms",
+        "wheelchair_boarding": 2,
+        "address": "90 Croton St, Wellesley, MA 02481",
+        "lat": 42.323608,
+        "long": -71.272288
+    },
+    "place-WML-0135": {
+        "id": "place-WML-0135",
+        "name": "Wellesley Hills",
+        "wheelchair_boarding": 2,
+        "address": "341 Washington St, Wellesley, MA 02481",
+        "lat": 42.31037,
+        "long": -71.277044
+    },
+    "place-WML-0147": {
+        "id": "place-WML-0147",
+        "name": "Wellesley Square",
+        "wheelchair_boarding": 2,
+        "address": "1 Grove St, Wellesley, MA 02482",
+        "lat": 42.297526,
+        "long": -71.294173
+    },
+    "place-WML-0177": {
+        "id": "place-WML-0177",
+        "name": "Natick Center",
+        "wheelchair_boarding": 2,
+        "address": "1 Walnut St, Natick, MA 01760",
+        "lat": 42.285719,
+        "long": -71.347133
+    },
+    "place-WML-0199": {
+        "id": "place-WML-0199",
+        "name": "West Natick",
+        "wheelchair_boarding": 1,
+        "address": "249 West Central St, Natick, MA 01760",
+        "lat": 42.283064,
+        "long": -71.391797
+    },
+    "place-WML-0214": {
+        "id": "place-WML-0214",
+        "name": "Framingham",
+        "wheelchair_boarding": 1,
+        "address": "417 Waverly St, Framingham, MA 01702",
+        "lat": 42.276108,
+        "long": -71.420055
+    },
+    "place-WML-0252": {
+        "id": "place-WML-0252",
+        "name": "Ashland",
+        "wheelchair_boarding": 1,
+        "address": "Pleasant St and Cordaville Rd, Ashland, MA 01721",
+        "lat": 42.26149,
+        "long": -71.482161
+    },
+    "place-WML-0274": {
+        "id": "place-WML-0274",
+        "name": "Southborough",
+        "wheelchair_boarding": 1,
+        "address": "87 Southville Rd, Southborough, MA 01772",
+        "lat": 42.267024,
+        "long": -71.524371
+    },
+    "place-WML-0340": {
+        "id": "place-WML-0340",
+        "name": "Westborough",
+        "wheelchair_boarding": 1,
+        "address": "Smith Pkwy and Fisher St, Westborough, MA 01581",
+        "lat": 42.269644,
+        "long": -71.647076
+    },
+    "place-WML-0364": {
+        "id": "place-WML-0364",
+        "name": "Grafton",
+        "wheelchair_boarding": 1,
+        "address": "1 Pine St, North Grafton, MA 01536-1856",
+        "lat": 42.2466,
+        "long": -71.685325
+    },
+    "place-WML-0442": {
+        "id": "place-WML-0442",
+        "name": "Worcester",
+        "wheelchair_boarding": 1,
+        "address": "2 Washington Sq, Worcester, MA 01608",
+        "lat": 42.261835,
+        "long": -71.791806
+    },
+    "place-rr-newton-corner": {
+        "id": "place-rr-newton-corner",
+        "name": "Newton Corner",
+        "error": "404: Resource Not Found"
+    },
+    "place-rr-west-station": {
+        "id": "place-rr-west-station",
+        "name": "West Station",
+        "error": "404: Resource Not Found"
+    },
+    "place-alfcl": {
+        "id": "place-alfcl",
+        "name": "Alewife",
+        "wheelchair_boarding": 1,
+        "address": "Alewife Brook Pkwy and Cambridge Park Dr, Cambridge, MA 02140",
+        "lat": 42.395428,
+        "long": -71.142483
+    },
+    "place-davis": {
+        "id": "place-davis",
+        "name": "Davis",
+        "wheelchair_boarding": 1,
+        "address": "College Ave and Elm St, Somerville, MA",
+        "lat": 42.39674,
+        "long": -71.121815
+    },
+    "place-harsq": {
+        "id": "place-harsq",
+        "name": "Harvard",
+        "wheelchair_boarding": 1,
+        "address": "1400 Massachusetts Ave, Cambridge, MA",
+        "lat": 42.373362,
+        "long": -71.118956
+    },
+    "place-cntsq": {
+        "id": "place-cntsq",
+        "name": "Central",
+        "wheelchair_boarding": 1,
+        "address": "Massachusetts Ave and Prospect St, Cambridge, MA 02139",
+        "lat": 42.365486,
+        "long": -71.103802
+    },
+    "place-knncl": {
+        "id": "place-knncl",
+        "name": "Kendall/MIT",
+        "wheelchair_boarding": 1,
+        "address": "300 Main St, Cambridge, MA 02142",
+        "lat": 42.362491,
+        "long": -71.086176
+    },
+    "place-chmnl": {
+        "id": "place-chmnl",
+        "name": "Charles/MGH",
+        "wheelchair_boarding": 1,
+        "address": "Cambridge St and Charles St, Boston, MA",
+        "lat": 42.361166,
+        "long": -71.070628
+    },
+    "place-pktrm": {
+        "id": "place-pktrm",
+        "name": "Park Street",
+        "wheelchair_boarding": 1,
+        "address": "Tremont St and Winter St, Boston, MA 02108",
+        "lat": 42.356395,
+        "long": -71.062424
+    },
+    "place-dwnxg": {
+        "id": "place-dwnxg",
+        "name": "Downtown Crossing",
+        "wheelchair_boarding": 1,
+        "address": "Washington St and Summer St, Boston, MA",
+        "lat": 42.355518,
+        "long": -71.060225
+    },
+    "place-brdwy": {
+        "id": "place-brdwy",
+        "name": "Broadway",
+        "wheelchair_boarding": 1,
+        "address": "Dorchester Ave and Broadway, Boston, MA",
+        "lat": 42.342622,
+        "long": -71.056967
+    },
+    "place-andrw": {
+        "id": "place-andrw",
+        "name": "Andrew",
+        "wheelchair_boarding": 1,
+        "address": "Dorchester Ave and Southhampton St, South Boston, MA 02127",
+        "lat": 42.330154,
+        "long": -71.057655
+    },
+    "place-shmnl": {
+        "id": "place-shmnl",
+        "name": "Savin Hill",
+        "wheelchair_boarding": 1,
+        "address": "125 Savin Hill Ave, Dorchester, MA 02124",
+        "lat": 42.31129,
+        "long": -71.053331
+    },
+    "place-fldcr": {
+        "id": "place-fldcr",
+        "name": "Fields Corner",
+        "wheelchair_boarding": 1,
+        "address": "50 Freeman St, Dorchester, MA 02122",
+        "lat": 42.300093,
+        "long": -71.061667
+    },
+    "place-smmnl": {
+        "id": "place-smmnl",
+        "name": "Shawmut",
+        "wheelchair_boarding": 1,
+        "address": "Dayton St and Clementine Park, Dorchester, MA 02124",
+        "lat": 42.293126,
+        "long": -71.065738
+    },
+    "place-asmnl": {
+        "id": "place-asmnl",
+        "name": "Ashmont",
+        "wheelchair_boarding": 1,
+        "address": "Dorchester Ave and Ashmont St, Boston, MA 02124",
+        "lat": 42.28452,
+        "long": -71.063777
+    },
+    "place-nqncy": {
+        "id": "place-nqncy",
+        "name": "North Quincy",
+        "wheelchair_boarding": 1,
+        "address": "Hancock St and Hunt St, Quincy, MA 02171",
+        "lat": 42.275275,
+        "long": -71.029583
+    },
+    "place-wlsta": {
+        "id": "place-wlsta",
+        "name": "Wollaston",
+        "wheelchair_boarding": 1,
+        "address": "90 Woodbine St, Quincy, MA 02171",
+        "lat": 42.266514,
+        "long": -71.020337
+    },
+    "place-qamnl": {
+        "id": "place-qamnl",
+        "name": "Quincy Adams",
+        "wheelchair_boarding": 1,
+        "address": "Burgin Pkwy and Centre St, Quincy, MA 02169",
+        "lat": 42.233391,
+        "long": -71.007153
+    },
+    "place-lake": {
+        "id": "place-lake",
+        "name": "Boston College",
+        "wheelchair_boarding": 1,
+        "address": "Commonwealth Ave and Lake St, Boston, MA 02135",
+        "lat": 42.340081,
+        "long": -71.166769
+    },
+    "place-sougr": {
+        "id": "place-sougr",
+        "name": "South Street",
+        "wheelchair_boarding": 2,
+        "address": null,
+        "lat": 42.3396,
+        "long": -71.157661
+    },
+    "place-chill": {
+        "id": "place-chill",
+        "name": "Chestnut Hill Avenue",
+        "wheelchair_boarding": 2,
+        "address": "Commonwealth Ave and Chestnut Hill Ave, Boston, MA",
+        "lat": 42.338169,
+        "long": -71.15316
+    },
+    "place-chswk": {
+        "id": "place-chswk",
+        "name": "Chiswick Road",
+        "wheelchair_boarding": 2,
+        "address": "Commonwealth Ave and Chiswick Rd, Boston, MA",
+        "lat": 42.340805,
+        "long": -71.150711
+    },
+    "place-sthld": {
+        "id": "place-sthld",
+        "name": "Sutherland Road",
+        "wheelchair_boarding": 2,
+        "address": "Commonwealth Ave and Sutherland Rd, Boston, MA",
+        "lat": 42.341614,
+        "long": -71.146202
+    },
+    "place-wascm": {
+        "id": "place-wascm",
+        "name": "Washington Street",
+        "wheelchair_boarding": 1,
+        "address": "Commonwealth Ave and Washington St, Boston, MA",
+        "lat": 42.343864,
+        "long": -71.142853
+    },
+    "place-alsgr": {
+        "id": "place-alsgr",
+        "name": "Allston Street",
+        "wheelchair_boarding": 2,
+        "address": "Allston St and Commonwealth Ave, Boston, MA 02134",
+        "lat": 42.348701,
+        "long": -71.137955
+    },
+    "place-wrnst": {
+        "id": "place-wrnst",
+        "name": "Warren Street",
+        "wheelchair_boarding": 2,
+        "address": "Commonwealth Ave and Warren St, Boston, MA",
+        "lat": 42.348343,
+        "long": -71.140457
+    },
+    "place-grigg": {
+        "id": "place-grigg",
+        "name": "Griggs Street",
+        "wheelchair_boarding": 2,
+        "address": "Commonwealth Ave and Griggs St, Boston, MA",
+        "lat": 42.348545,
+        "long": -71.134949
+    },
+    "place-harvd": {
+        "id": "place-harvd",
+        "name": "Harvard Avenue",
+        "wheelchair_boarding": 1,
+        "address": "Commonwealth Ave and Harvard Ave, Boston, MA",
+        "lat": 42.350243,
+        "long": -71.131355
+    },
+    "place-brico": {
+        "id": "place-brico",
+        "name": "Packards Corner",
+        "wheelchair_boarding": 2,
+        "address": "Commonwealth Ave and Brighton Ave, Boston, MA 02215",
+        "lat": 42.351967,
+        "long": -71.125031
+    },
+    "place-babck": {
+        "id": "place-babck",
+        "name": "Babcock Street",
+        "wheelchair_boarding": 1,
+        "address": "Commonwealth Ave and Babcock St, Boston, MA 02215",
+        "lat": 42.351616,
+        "long": -71.119924
+    },
+    "place-plsgr": {
+        "id": "place-plsgr",
+        "name": "Pleasant Street",
+        "error": "404: Resource Not Found"
+    },
+    "place-buwst": {
+        "id": "place-buwst",
+        "name": "Boston University West",
+        "error": "404: Resource Not Found"
+    },
+    "place-stplb": {
+        "id": "place-stplb",
+        "name": "Saint Paul Street",
+        "error": "404: Resource Not Found"
+    },
+    "place-bucen": {
+        "id": "place-bucen",
+        "name": "Boston University Central",
+        "wheelchair_boarding": 1,
+        "address": "Commonwealth Ave and Marsh Chapel, Boston, MA 02215",
+        "lat": 42.350082,
+        "long": -71.106865
+    },
+    "place-buest": {
+        "id": "place-buest",
+        "name": "Boston University East",
+        "wheelchair_boarding": 1,
+        "address": "Commonwealth Ave and Granby St, Boston, MA 02215",
+        "lat": 42.349735,
+        "long": -71.103889
+    },
+    "place-bland": {
+        "id": "place-bland",
+        "name": "Blandford Street",
+        "wheelchair_boarding": 2,
+        "address": "Commonwealth Ave and Blandford Mall, Boston, MA 02215",
+        "lat": 42.349293,
+        "long": -71.100258
+    },
+    "place-kencl": {
+        "id": "place-kencl",
+        "name": "Kenmore",
+        "wheelchair_boarding": 1,
+        "address": "Commonwealth Ave and Kenmore St, Boston, MA 02215",
+        "lat": 42.348949,
+        "long": -71.095169
+    },
+    "place-hymnl": {
+        "id": "place-hymnl",
+        "name": "Hynes Convention Center",
+        "wheelchair_boarding": 2,
+        "address": "100 Massachusetts Ave, Boston, MA",
+        "lat": 42.347888,
+        "long": -71.087903
+    },
+    "place-coecl": {
+        "id": "place-coecl",
+        "name": "Copley",
+        "wheelchair_boarding": 1,
+        "address": "Boylston St and Dartmouth St, Boston, MA",
+        "lat": 42.349974,
+        "long": -71.077447
+    },
+    "place-armnl": {
+        "id": "place-armnl",
+        "name": "Arlington",
+        "wheelchair_boarding": 1,
+        "address": "Arlington St and Boylston St, Boston, MA 02116",
+        "lat": 42.351902,
+        "long": -71.070893
+    },
+    "place-boyls": {
+        "id": "place-boyls",
+        "name": "Boylston",
+        "wheelchair_boarding": 2,
+        "address": "Boylston St and Tremont St, Boston, MA",
+        "lat": 42.35302,
+        "long": -71.06459
+    },
+    "place-gover": {
+        "id": "place-gover",
+        "name": "Government Center",
+        "wheelchair_boarding": 1,
+        "address": "Cambridge St and Court St, Boston, MA",
+        "lat": 42.359705,
+        "long": -71.059215
+    },
+    "place-haecl": {
+        "id": "place-haecl",
+        "name": "Haymarket",
+        "wheelchair_boarding": 1,
+        "address": "136 Blackstone St, Boston, MA 02109",
+        "lat": 42.363021,
+        "long": -71.05829
+    },
+    "place-spmnl": {
+        "id": "place-spmnl",
+        "name": "Science Park/West End",
+        "wheelchair_boarding": 1,
+        "address": "Leverett Circle and Nashua St, Boston, MA 02114",
+        "lat": 42.366664,
+        "long": -71.067666
+    },
+    "place-lech": {
+        "id": "place-lech",
+        "name": "Lechmere",
+        "wheelchair_boarding": 1,
+        "address": "3 North First St, Cambridge, MA 02141",
+        "lat": 42.371572,
+        "long": -71.076584
+    },
+    "place-clmnl": {
+        "id": "place-clmnl",
+        "name": "Cleveland Circle",
+        "wheelchair_boarding": 1,
+        "address": "Beacon St and Chestnut Hill Ave, Brighton, MA",
+        "lat": 42.336142,
+        "long": -71.149326
+    },
+    "place-engav": {
+        "id": "place-engav",
+        "name": "Englewood Avenue",
+        "wheelchair_boarding": 2,
+        "address": "Beacon St and Englewood Ave, Brookline, MA",
+        "lat": 42.336971,
+        "long": -71.14566
+    },
+    "place-denrd": {
+        "id": "place-denrd",
+        "name": "Dean Road",
+        "wheelchair_boarding": 2,
+        "address": "Beacon St and Dean Rd, Brookline, MA",
+        "lat": 42.337807,
+        "long": -71.141853
+    },
+    "place-tapst": {
+        "id": "place-tapst",
+        "name": "Tappan Street",
+        "wheelchair_boarding": 2,
+        "address": "Beacon St and Tappan St, Brookline, MA",
+        "lat": 42.338459,
+        "long": -71.138702
+    },
+    "place-bcnwa": {
+        "id": "place-bcnwa",
+        "name": "Washington Square",
+        "wheelchair_boarding": 1,
+        "address": "Beacon St and Washington St, Brookline, MA",
+        "lat": 42.339394,
+        "long": -71.13533
+    },
+    "place-bndhl": {
+        "id": "place-bndhl",
+        "name": "Brandon Hall",
+        "wheelchair_boarding": 2,
+        "address": "1481 Beacon St, Brookline, MA",
+        "lat": 42.340023,
+        "long": -71.129082
+    },
+    "place-fbkst": {
+        "id": "place-fbkst",
+        "name": "Fairbanks Street",
+        "wheelchair_boarding": 2,
+        "address": "Beacon St and Fairbanks Ave, Brookline, MA",
+        "lat": 42.339725,
+        "long": -71.131073
+    },
+    "place-sumav": {
+        "id": "place-sumav",
+        "name": "Summit Avenue",
+        "wheelchair_boarding": 2,
+        "address": "Beacon St and Summit Ave, Brookline, MA",
+        "lat": 42.34111,
+        "long": -71.12561
+    },
+    "place-cool": {
+        "id": "place-cool",
+        "name": "Coolidge Corner",
+        "wheelchair_boarding": 1,
+        "address": "Beacon St and Harvard St, Brookline, MA",
+        "lat": 42.342116,
+        "long": -71.121263
+    },
+    "place-stpul": {
+        "id": "place-stpul",
+        "name": "Saint Paul Street",
+        "wheelchair_boarding": 2,
+        "address": "Beacon St and Saint Paul St, Brookline, MA 02446",
+        "lat": 42.343327,
+        "long": -71.116997
+    },
+    "place-kntst": {
+        "id": "place-kntst",
+        "name": "Kent Street",
+        "wheelchair_boarding": 2,
+        "address": "Beacon St and Powell St, Brookline, MA",
+        "lat": 42.344074,
+        "long": -71.114197
+    },
+    "place-hwsst": {
+        "id": "place-hwsst",
+        "name": "Hawes Street",
+        "wheelchair_boarding": 2,
+        "address": "Beacon St and Hawes St, Brookline, MA",
+        "lat": 42.344906,
+        "long": -71.111145
+    },
+    "place-smary": {
+        "id": "place-smary",
+        "name": "Saint Marys Street",
+        "wheelchair_boarding": 1,
+        "address": "Beacon St and Saint Mary's St, Boston, MA",
+        "lat": 42.345974,
+        "long": -71.107353
+    },
+    "place-river": {
+        "id": "place-river",
+        "name": "Riverside",
+        "wheelchair_boarding": 1,
+        "address": "367 Grove St, Newton, MA 02466",
+        "lat": 42.337352,
+        "long": -71.252685
+    },
+    "place-woodl": {
+        "id": "place-woodl",
+        "name": "Woodland",
+        "wheelchair_boarding": 1,
+        "address": "1940 Washington St, Newton, MA 02466",
+        "lat": 42.332902,
+        "long": -71.243362
+    },
+    "place-waban": {
+        "id": "place-waban",
+        "name": "Waban",
+        "wheelchair_boarding": 2,
+        "address": "Beacon St and Waban Sq, Newton, MA 02468",
+        "lat": 42.325845,
+        "long": -71.230609
+    },
+    "place-eliot": {
+        "id": "place-eliot",
+        "name": "Eliot",
+        "wheelchair_boarding": 2,
+        "address": "248 Lincoln St, Newton, MA 02461",
+        "lat": 42.319045,
+        "long": -71.216684
+    },
+    "place-newtn": {
+        "id": "place-newtn",
+        "name": "Newton Highlands",
+        "wheelchair_boarding": 1,
+        "address": "60 Station Ave, Newton, MA 02461",
+        "lat": 42.322381,
+        "long": -71.205509
+    },
+    "place-newto": {
+        "id": "place-newto",
+        "name": "Newton Centre",
+        "wheelchair_boarding": 1,
+        "address": "72 Union St, Newton, MA 02459",
+        "lat": 42.329443,
+        "long": -71.192414
+    },
+    "place-chhil": {
+        "id": "place-chhil",
+        "name": "Chestnut Hill",
+        "wheelchair_boarding": 2,
+        "address": "Hammond St and Chestnut Hill Rd, Newton, MA 02467",
+        "lat": 42.326753,
+        "long": -71.164699
+    },
+    "place-rsmnl": {
+        "id": "place-rsmnl",
+        "name": "Reservoir",
+        "wheelchair_boarding": 1,
+        "address": "401 Chestnut Hill Ave, Brookline, MA 02445",
+        "lat": 42.335088,
+        "long": -71.148758
+    },
+    "place-bcnfd": {
+        "id": "place-bcnfd",
+        "name": "Beaconsfield",
+        "wheelchair_boarding": 2,
+        "address": "124 Beaconsfield Rd, Brookline, MA 02445",
+        "lat": 42.335765,
+        "long": -71.140455
+    },
+    "place-brkhl": {
+        "id": "place-brkhl",
+        "name": "Brookline Hills",
+        "wheelchair_boarding": 1,
+        "address": "Tappan St and Cypress St, Brookline, MA 02445",
+        "lat": 42.331316,
+        "long": -71.126683
+    },
+    "place-bvmnl": {
+        "id": "place-bvmnl",
+        "name": "Brookline Village",
+        "wheelchair_boarding": 1,
+        "address": "31 Station St, Brookline, MA 02445",
+        "lat": 42.332608,
+        "long": -71.116857
+    },
+    "place-longw": {
+        "id": "place-longw",
+        "name": "Longwood",
+        "wheelchair_boarding": 1,
+        "address": "30 Chapel St, Brookline, MA 02446",
+        "lat": 42.341702,
+        "long": -71.109956
+    },
+    "place-fenwy": {
+        "id": "place-fenwy",
+        "name": "Fenway",
+        "wheelchair_boarding": 1,
+        "address": "411 Park Dr, Boston, MA 02215",
+        "lat": 42.345403,
+        "long": -71.104213
+    },
+    "place-hsmnl": {
+        "id": "place-hsmnl",
+        "name": "Heath Street",
+        "wheelchair_boarding": 1,
+        "address": "Heath St and South Huntington Ave, Boston, MA",
+        "lat": 42.328316,
+        "long": -71.110252
+    },
+    "place-bckhl": {
+        "id": "place-bckhl",
+        "name": "Back of the Hill",
+        "wheelchair_boarding": 2,
+        "address": "100 South Huntington Ave, Boston, MA 02130",
+        "lat": 42.330139,
+        "long": -71.111313
+    },
+    "place-rvrwy": {
+        "id": "place-rvrwy",
+        "name": "Riverway",
+        "wheelchair_boarding": 2,
+        "address": "South Huntington Ave and Huntington Ave, Boston, MA",
+        "lat": 42.331684,
+        "long": -71.111931
+    },
+    "place-mispk": {
+        "id": "place-mispk",
+        "name": "Mission Park",
+        "wheelchair_boarding": 2,
+        "address": "Huntington Ave and Mission Park Dr, Boston, MA 02115",
+        "lat": 42.333195,
+        "long": -71.109756
+    },
+    "place-brmnl": {
+        "id": "place-brmnl",
+        "name": "Brigham Circle",
+        "wheelchair_boarding": 1,
+        "address": "Huntington Ave and Francis St, Boston, MA",
+        "lat": 42.334229,
+        "long": -71.104609
+    },
+    "place-fenwd": {
+        "id": "place-fenwd",
+        "name": "Fenwood Road",
+        "wheelchair_boarding": 2,
+        "address": "Huntington Ave and Fenwood Rd, Boston, MA",
+        "lat": 42.333706,
+        "long": -71.105728
+    },
+    "place-lngmd": {
+        "id": "place-lngmd",
+        "name": "Longwood Medical Area",
+        "wheelchair_boarding": 1,
+        "address": "Huntington Ave and Longwood Ave, Boston, MA 02115",
+        "lat": 42.33596,
+        "long": -71.100052
+    },
+    "place-mfa": {
+        "id": "place-mfa",
+        "name": "Museum of Fine Arts",
+        "wheelchair_boarding": 1,
+        "address": "Huntington Ave and Ruggles St, Boston, MA",
+        "lat": 42.337711,
+        "long": -71.095512
+    },
+    "place-nuniv": {
+        "id": "place-nuniv",
+        "name": "Northeastern University",
+        "wheelchair_boarding": 1,
+        "address": "Huntington Ave and Opera Pl, Boston, MA 02115",
+        "lat": 42.340401,
+        "long": -71.088806
+    },
+    "place-symcl": {
+        "id": "place-symcl",
+        "name": "Symphony",
+        "wheelchair_boarding": 2,
+        "address": "Massachusetts Ave and Huntington Ave, Boston, MA",
+        "lat": 42.342687,
+        "long": -71.085056
+    },
+    "place-prmnl": {
+        "id": "place-prmnl",
+        "name": "Prudential",
+        "wheelchair_boarding": 1,
+        "address": "Huntington Ave and Belvidere St, Boston, MA 02199",
+        "lat": 42.34557,
+        "long": -71.081696
+    },
+    "place-orhte": {
+        "id": "place-orhte",
+        "name": "Orient Heights",
+        "wheelchair_boarding": 1,
+        "address": "1000 Bennington St, East Boston, MA 02128",
+        "lat": 42.386867,
+        "long": -71.004736
+    },
+    "place-wimnl": {
+        "id": "place-wimnl",
+        "name": "Wood Island",
+        "wheelchair_boarding": 1,
+        "address": "450 Bennington St, East Boston, MA",
+        "lat": 42.37964,
+        "long": -71.022865
+    },
+    "place-mvbcl": {
+        "id": "place-mvbcl",
+        "name": "Maverick",
+        "wheelchair_boarding": 1,
+        "address": "Sumner St and Maverick Sq, East Boston, MA",
+        "lat": 42.369119,
+        "long": -71.03953
+    },
+    "place-aqucl": {
+        "id": "place-aqucl",
+        "name": "Aquarium",
+        "wheelchair_boarding": 1,
+        "address": "Atlantic Ave and State St, Boston, MA 02120",
+        "lat": 42.359784,
+        "long": -71.051652
+    },
+    "place-state": {
+        "id": "place-state",
+        "name": "State",
+        "wheelchair_boarding": 1,
+        "address": "200 Washington St, Boston, MA",
+        "lat": 42.358978,
+        "long": -71.057598
+    },
+    "place-bomnl": {
+        "id": "place-bomnl",
+        "name": "Bowdoin",
+        "wheelchair_boarding": 2,
+        "address": "Cambridge St and New Chardon St, Boston, MA 02114",
+        "lat": 42.361365,
+        "long": -71.062037
+    },
+    "place-wondl": {
+        "id": "place-wondl",
+        "name": "Wonderland",
+        "wheelchair_boarding": 1,
+        "address": "1300 North Shore Rd, Revere, MA 02151",
+        "lat": 42.41342,
+        "long": -70.991648
+    },
+    "place-rbmnl": {
+        "id": "place-rbmnl",
+        "name": "Revere Beach",
+        "wheelchair_boarding": 1,
+        "address": "220 Shirley Ave, Revere, MA",
+        "lat": 42.407843,
+        "long": -70.992533
+    },
+    "place-bmmnl": {
+        "id": "place-bmmnl",
+        "name": "Beachmont",
+        "wheelchair_boarding": 1,
+        "address": "630 Winthrop Ave, Revere, MA 02151",
+        "lat": 42.397542,
+        "long": -70.992319
+    },
+    "place-sdmnl": {
+        "id": "place-sdmnl",
+        "name": "Suffolk Downs",
+        "wheelchair_boarding": 1,
+        "address": "1230 Bennington St, East Boston, MA 02128",
+        "lat": 42.390501,
+        "long": -70.997123
+    },
+    "place-ogmnl": {
+        "id": "place-ogmnl",
+        "name": "Oak Grove",
+        "wheelchair_boarding": 1,
+        "address": "Washington St and Winter St, Malden, MA 02148",
+        "lat": 42.43668,
+        "long": -71.071097
+    },
+    "place-welln": {
+        "id": "place-welln",
+        "name": "Wellington",
+        "wheelchair_boarding": 1,
+        "address": "Revere Beach Pkwy and Rivers Edge Dr, Medford, MA 02155",
+        "lat": 42.40237,
+        "long": -71.077082
+    },
+    "place-astao": {
+        "id": "place-astao",
+        "name": "Assembly",
+        "wheelchair_boarding": 1,
+        "address": "499 Foley St, Somerville, MA 02145",
+        "lat": 42.392811,
+        "long": -71.077257
+    },
+    "place-sull": {
+        "id": "place-sull",
+        "name": "Sullivan Square",
+        "wheelchair_boarding": 1,
+        "address": "Maffa Way and Cambridge St, Charlestown, MA 02129",
+        "lat": 42.383975,
+        "long": -71.076994
+    },
+    "place-ccmnl": {
+        "id": "place-ccmnl",
+        "name": "Community College",
+        "wheelchair_boarding": 1,
+        "address": "Austin St and Rutherford Ave, Charlestown, MA",
+        "lat": 42.373622,
+        "long": -71.069533
+    },
+    "place-chncl": {
+        "id": "place-chncl",
+        "name": "Chinatown",
+        "wheelchair_boarding": 1,
+        "address": "Washington St and Boylston St, Boston, MA",
+        "lat": 42.352547,
+        "long": -71.062752
+    },
+    "place-tumnl": {
+        "id": "place-tumnl",
+        "name": "Tufts Medical Center",
+        "wheelchair_boarding": 1,
+        "address": "750 Washington St, Boston, MA",
+        "lat": 42.349662,
+        "long": -71.063917
+    },
+    "place-masta": {
+        "id": "place-masta",
+        "name": "Massachusetts Avenue",
+        "wheelchair_boarding": 1,
+        "address": "393 Massachusetts Ave, Boston, MA 02118",
+        "lat": 42.341512,
+        "long": -71.083423
+    },
+    "place-rcmnl": {
+        "id": "place-rcmnl",
+        "name": "Roxbury Crossing",
+        "wheelchair_boarding": 1,
+        "address": "1400 Tremont St, Roxbury, MA",
+        "lat": 42.331397,
+        "long": -71.095451
+    },
+    "place-jaksn": {
+        "id": "place-jaksn",
+        "name": "Jackson Square",
+        "wheelchair_boarding": 1,
+        "address": "1500 Columbus Ave, Jamaica Plain, MA",
+        "lat": 42.323132,
+        "long": -71.099592
+    },
+    "place-sbmnl": {
+        "id": "place-sbmnl",
+        "name": "Stony Brook",
+        "wheelchair_boarding": 1,
+        "address": "100 Boylston St, Jamaica Plain, MA",
+        "lat": 42.317062,
+        "long": -71.104248
+    },
+    "place-grnst": {
+        "id": "place-grnst",
+        "name": "Green Street",
+        "wheelchair_boarding": 1,
+        "address": "150 Green St, Jamaica Plain, MA",
+        "lat": 42.310525,
+        "long": -71.107414
+    }
+}

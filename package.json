@@ -1,0 +1,19 @@
+{
+  "name": "station-walking-distance",
+  "version": "1.0.0",
+  "description": "one-time scrape of walking distances between mbta stations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TransitMatters",
+  "license": "ISC",
+  "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.3.16",
+    "fs": "^0.0.1-security",
+    "got": "^12.5.1",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "sync-request": "^6.1.0"
+  }
+}
