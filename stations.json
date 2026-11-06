@@ -1,1316 +1,2781 @@
 {
-    "Fairmount": [
-        {
-            "id": "place-DB-0095",
-            "name": "Readville"
-        },
-        {
-            "id": "place-DB-2205",
-            "name": "Fairmount"
-        },
-        {
-            "id": "place-DB-2222",
-            "name": "Blue Hill Avenue"
-        },
-        {
-            "id": "place-DB-2230",
-            "name": "Morton Street"
-        },
-        {
-            "id": "place-DB-2240",
-            "name": "Talbot Avenue"
-        },
-        {
-            "id": "place-DB-2249",
-            "name": "Four Corners/Geneva"
-        },
-        {
-            "id": "place-DB-2258",
-            "name": "Uphams Corner"
-        },
-        {
-            "id": "place-DB-2265",
-            "name": "Newmarket"
-        },
-        {
-            "id": "place-sstat",
-            "name": "South Station"
-        },
-        {
-            "id": "place-rr-ceylon-park",
-            "name": "Ceylon Park"
-        },
-        {
-            "id": "place-rr-river-street",
-            "name": "River Street"
-        }
-    ],
-    "Franklin": [
-        {
-            "id": "place-FB-0303",
-            "name": "Forge Park/495"
-        },
-        {
-            "id": "place-FB-0275",
-            "name": "Franklin"
-        },
-        {
-            "id": "place-FB-0230",
-            "name": "Norfolk"
-        },
-        {
-            "id": "place-FB-0191",
-            "name": "Walpole"
-        },
-        {
-            "id": "place-FB-0166",
-            "name": "Windsor Gardens"
-        },
-        {
-            "id": "place-FB-0148",
-            "name": "Norwood Central"
-        },
-        {
-            "id": "place-FB-0143",
-            "name": "Norwood Depot"
-        },
-        {
-            "id": "place-FB-0125",
-            "name": "Islington"
-        },
-        {
-            "id": "place-FB-0118",
-            "name": "Dedham Corp Center"
-        },
-        {
-            "id": "place-FB-0109",
-            "name": "Endicott"
-        },
-        {
-            "id": "place-DB-0095",
-            "name": "Readville"
-        },
-        {
-            "id": "place-rugg",
-            "name": "Ruggles"
-        },
-        {
-            "id": "place-bbsta",
-            "name": "Back Bay"
-        },
-        {
-            "id": "place-sstat",
-            "name": "South Station"
-        },
-        {
-            "id": "place-FS-0049",
-            "name": "Foxboro"
-        },
-        {
-            "id": "place-DB-2205",
-            "name": "Fairmount"
-        },
-        {
-            "id": "place-DB-2222",
-            "name": "Blue Hill Avenue"
-        },
-        {
-            "id": "place-DB-2230",
-            "name": "Morton Street"
-        },
-        {
-            "id": "place-DB-2240",
-            "name": "Talbot Avenue"
-        },
-        {
-            "id": "place-DB-2249",
-            "name": "Four Corners/Geneva"
-        },
-        {
-            "id": "place-DB-2258",
-            "name": "Uphams Corner"
-        },
-        {
-            "id": "place-DB-2265",
-            "name": "Newmarket"
-        },
-        {
-            "id": "place-FB-0177",
-            "name": "Plimptonville"
-        },
-        {
-            "id": "place-NEC-2203",
-            "name": "Hyde Park"
-        }
-    ],
-    "Silver": [
-        {
-            "id": "place-chels",
-            "name": "Chelsea"
-        },
-        {
-            "id": "place-belsq",
-            "name": "Bellingham Square"
-        },
-        {
-            "id": "place-boxdt",
-            "name": "Box District"
-        },
-        {
-            "id": "place-estav",
-            "name": "Eastern Avenue"
-        },
-        {
-            "id": "place-aport",
-            "name": "Airport"
-        },
-        {
-            "id": "place-conrd",
-            "name": "Silver Line Way"
-        },
-        {
-            "id": "place-wtcst",
-            "name": "World Trade Center"
-        },
-        {
-            "id": "place-crtst",
-            "name": "Courthouse"
-        },
-        {
-            "id": "place-sstat",
-            "name": "South Station"
-        },
-        {
-            "id": "place-dudly",
-            "name": "Dudley Square"
-        }
-    ],
-    "Newburyport": [
-        {
-            "id": "place-GB-0353",
-            "name": "Rockport"
-        },
-        {
-            "id": "place-GB-0316",
-            "name": "Gloucester"
-        },
-        {
-            "id": "place-GB-0296",
-            "name": "West Gloucester"
-        },
-        {
-            "id": "place-GB-0254",
-            "name": "Manchester"
-        },
-        {
-            "id": "place-GB-0229",
-            "name": "Beverly Farms"
-        },
-        {
-            "id": "place-GB-0198",
-            "name": "Montserrat"
-        },
-        {
-            "id": "place-ER-0183",
-            "name": "Beverly"
-        },
-        {
-            "id": "place-ER-0168",
-            "name": "Salem"
-        },
-        {
-            "id": "place-ER-0128",
-            "name": "Swampscott"
-        },
-        {
-            "id": "place-ER-0115",
-            "name": "Lynn"
-        },
-        {
-            "id": "place-ER-0099",
-            "name": "River Works"
-        },
-        {
-            "id": "place-ER-0046",
-            "name": "Chelsea"
-        },
-        {
-            "id": "place-north",
-            "name": "North Station"
-        },
-        {
-            "id": "place-ER-0362",
-            "name": "Newburyport"
-        },
-        {
-            "id": "place-ER-0312",
-            "name": "Rowley"
-        },
-        {
-            "id": "place-ER-0276",
-            "name": "Ipswich"
-        },
-        {
-            "id": "place-ER-0227",
-            "name": "Hamilton/Wenham"
-        },
-        {
-            "id": "place-ER-0208",
-            "name": "North Beverly"
-        },
-        {
-            "id": "place-GB-0222",
-            "name": "Prides Crossing"
-        },
-        {
-            "id": "place-rr-everett-jct",
-            "name": "S. Broadway/Everett Jct"
-        },
-        {
-            "id": "place-rr-revere-center",
-            "name": "Revere Center"
-        },
-        {
-            "id": "place-rr-south-salem",
-            "name": "South Salem"
-        }
-    ],
-    "Fitchburg": [
-        {
-            "id": "place-FR-3338",
-            "name": "Wachusett"
-        },
-        {
-            "id": "place-FR-0494",
-            "name": "Fitchburg"
-        },
-        {
-            "id": "place-FR-0451",
-            "name": "North Leominster"
-        },
-        {
-            "id": "place-FR-0394",
-            "name": "Shirley"
-        },
-        {
-            "id": "place-FR-0361",
-            "name": "Ayer"
-        },
-        {
-            "id": "place-FR-0301",
-            "name": "Littleton/Rte 495"
-        },
-        {
-            "id": "place-FR-0253",
-            "name": "South Acton"
-        },
-        {
-            "id": "place-FR-0219",
-            "name": "West Concord"
-        },
-        {
-            "id": "place-FR-0201",
-            "name": "Concord"
-        },
-        {
-            "id": "place-FR-0167",
-            "name": "Lincoln"
-        },
-        {
-            "id": "place-FR-0137",
-            "name": "Hastings"
-        },
-        {
-            "id": "place-FR-0132",
-            "name": "Kendal Green"
-        },
-        {
-            "id": "place-FR-0115",
-            "name": "Brandeis/Roberts"
-        },
-        {
-            "id": "place-FR-0098",
-            "name": "Waltham"
-        },
-        {
-            "id": "place-FR-0074",
-            "name": "Waverley"
-        },
-        {
-            "id": "place-FR-0064",
-            "name": "Belmont"
-        },
-        {
-            "id": "place-portr",
-            "name": "Porter"
-        },
-        {
-            "id": "place-north",
-            "name": "North Station"
-        },
-        {
-            "id": "place-FR-0147",
-            "name": "Silver Hill"
-        },
-        {
-            "id": "place-rr-brickbottom",
-            "name": "Brickbottom"
-        },
-        {
-            "id": "place-rr-clematis-brook",
-            "name": "Clematis Brook/Warrendale"
-        },
-        {
-            "id": "place-rr-weston-128",
-            "name": "Weston/128"
-        }
-    ],
-    "Greenbush": [
-        {
-            "id": "place-GRB-0276",
-            "name": "Greenbush"
-        },
-        {
-            "id": "place-GRB-0233",
-            "name": "North Scituate"
-        },
-        {
-            "id": "place-GRB-0199",
-            "name": "Cohasset"
-        },
-        {
-            "id": "place-GRB-0183",
-            "name": "Nantasket Junction"
-        },
-        {
-            "id": "place-GRB-0162",
-            "name": "West Hingham"
-        },
-        {
-            "id": "place-GRB-0146",
-            "name": "East Weymouth"
-        },
-        {
-            "id": "place-GRB-0118",
-            "name": "Weymouth Landing/East Braintree"
-        },
-        {
-            "id": "place-qnctr",
-            "name": "Quincy Center"
-        },
-        {
-            "id": "place-jfk",
-            "name": "JFK/UMass"
-        },
-        {
-            "id": "place-sstat",
-            "name": "South Station"
-        },
-        {
-            "id": "place-rr-cohasset-center",
-            "name": "Cohasset Center"
-        }
-    ],
-    "Kingston": [
-        {
-            "id": "place-PB-0281",
-            "name": "Halifax"
-        },
-        {
-            "id": "place-PB-0245",
-            "name": "Hanson"
-        },
-        {
-            "id": "place-PB-0212",
-            "name": "Whitman"
-        },
-        {
-            "id": "place-PB-0194",
-            "name": "Abington"
-        },
-        {
-            "id": "place-PB-0158",
-            "name": "South Weymouth"
-        },
-        {
-            "id": "place-jfk",
-            "name": "JFK/UMass"
-        },
-        {
-            "id": "place-sstat",
-            "name": "South Station"
-        },
-        {
-            "id": "place-brntn",
-            "name": "Braintree"
-        },
-        {
-            "id": "place-qnctr",
-            "name": "Quincy Center"
-        },
-        {
-            "id": "place-PB-0356",
-            "name": "Plymouth"
-        },
-        {
-            "id": "place-rr-weymouth-col-sq",
-            "name": "Weymouth Columbian Square"
-        },
-        {
-            "id": "place-rockland-n-abington",
-            "name": "Rockland-North Abington"
-        },
-        {
-            "id": "place-kingston-jct",
-            "name": "Kingston Junction"
-        },
-        {
-            "id": "place-plymouth-center",
-            "name": "Plymouth Center"
-        }
-    ],
-    "Middleborough": [
-        {
-            "id": "place-MM-0356",
-            "name": "Middleborough/Lakeville"
-        },
-        {
-            "id": "place-MM-0277",
-            "name": "Bridgewater"
-        },
-        {
-            "id": "place-MM-0219",
-            "name": "Campello"
-        },
-        {
-            "id": "place-MM-0200",
-            "name": "Brockton"
-        },
-        {
-            "id": "place-MM-0186",
-            "name": "Montello"
-        },
-        {
-            "id": "place-MM-0150",
-            "name": "Holbrook/Randolph"
-        },
-        {
-            "id": "place-brntn",
-            "name": "Braintree"
-        },
-        {
-            "id": "place-jfk",
-            "name": "JFK/UMass"
-        },
-        {
-            "id": "place-sstat",
-            "name": "South Station"
-        },
-        {
-            "id": "place-qnctr",
-            "name": "Quincy Center"
-        },
-        {
-            "id": "place-rr-braintree-highlands",
-            "name": "Braintree Highlands"
-        },
-        {
-            "id": "place-rr-bridgewater-center",
-            "name": "Bridgewater Center"
-        },
-        {
-            "id": "place-rr-mboro-centre-st",
-            "name": "Middleborough Centre St"
-        }
-    ],
-    "Needham": [
-        {
-            "id": "place-NB-0137",
-            "name": "Needham Heights"
-        },
-        {
-            "id": "place-NB-0127",
-            "name": "Needham Center"
-        },
-        {
-            "id": "place-NB-0120",
-            "name": "Needham Junction"
-        },
-        {
-            "id": "place-NB-0109",
-            "name": "Hersey"
-        },
-        {
-            "id": "place-NB-0080",
-            "name": "West Roxbury"
-        },
-        {
-            "id": "place-NB-0076",
-            "name": "Highland"
-        },
-        {
-            "id": "place-NB-0072",
-            "name": "Bellevue"
-        },
-        {
-            "id": "place-NB-0064",
-            "name": "Roslindale Village"
-        },
-        {
-            "id": "place-forhl",
-            "name": "Forest Hills"
-        },
-        {
-            "id": "place-rugg",
-            "name": "Ruggles"
-        },
-        {
-            "id": "place-bbsta",
-            "name": "Back Bay"
-        },
-        {
-            "id": "place-sstat",
-            "name": "South Station"
-        }
-    ],
-    "Providence": [
-        {
-            "id": "place-NEC-1659",
-            "name": "Wickford Junction"
-        },
-        {
-            "id": "place-NEC-1768",
-            "name": "TF Green Airport"
-        },
-        {
-            "id": "place-NEC-1851",
-            "name": "Providence"
-        },
-        {
-            "id": "place-NEC-1919",
-            "name": "South Attleboro"
-        },
-        {
-            "id": "place-NEC-1969",
-            "name": "Attleboro"
-        },
-        {
-            "id": "place-NEC-2040",
-            "name": "Mansfield"
-        },
-        {
-            "id": "place-NEC-2108",
-            "name": "Sharon"
-        },
-        {
-            "id": "place-NEC-2139",
-            "name": "Canton Junction"
-        },
-        {
-            "id": "place-NEC-2173",
-            "name": "Route 128"
-        },
-        {
-            "id": "place-NEC-2203",
-            "name": "Hyde Park"
-        },
-        {
-            "id": "place-rugg",
-            "name": "Ruggles"
-        },
-        {
-            "id": "place-bbsta",
-            "name": "Back Bay"
-        },
-        {
-            "id": "place-sstat",
-            "name": "South Station"
-        },
-        {
-            "id": "place-SB-0189",
-            "name": "Stoughton"
-        },
-        {
-            "id": "place-SB-0156",
-            "name": "Canton Center"
-        },
-        {
-            "id": "place-rr-pawtucket",
-            "name": "Pawtucket"
-        }
-    ],
-    "Lowell": [
-        {
-            "id": "place-north",
-            "name": "North Station"
-        },
-        {
-            "id": "place-rr-tufts-university",
-            "name": "Tufts University"
-        },
-        {
-            "id": "place-NHRML-0055",
-            "name": "West Medford"
-        },
-        {
-            "id": "place-NHRML-0073",
-            "name": "Wedgemere"
-        },
-        {
-            "id": "place-NHRML-0078",
-            "name": "Winchester Center"
-        },
-        {
-            "id": "place-rr-montvale-avenue",
-            "name": "Montvale Avenue"
-        },
-        {
-            "id": "place-NHRML-0116",
-            "name": "Mishawum"
-        },
-        {
-            "id": "place-NHRML-0127",
-            "name": "Anderson/Woburn"
-        },
-        {
-            "id": "place-NHRML-0152",
-            "name": "Wilmington"
-        },
-        {
-            "id": "place-NHRML-0218",
-            "name": "North Billerica"
-        },
-        {
-            "id": "place-NHRML-0254",
-            "name": "Lowell"
-        }
-    ],
-    "Haverhill": [
-        {
-            "id": "place-WR-0329",
-            "name": "Haverhill"
-        },
-        {
-            "id": "place-WR-0325",
-            "name": "Bradford"
-        },
-        {
-            "id": "place-WR-0264",
-            "name": "Lawrence"
-        },
-        {
-            "id": "place-WR-0228",
-            "name": "Andover"
-        },
-        {
-            "id": "place-WR-0205",
-            "name": "Ballardvale"
-        },
-        {
-            "id": "place-north",
-            "name": "North Station"
-        },
-        {
-            "id": "place-WR-0163",
-            "name": "North Wilmington"
-        },
-        {
-            "id": "place-WR-0120",
-            "name": "Reading"
-        },
-        {
-            "id": "place-WR-0099",
-            "name": "Wakefield"
-        },
-        {
-            "id": "place-WR-0085",
-            "name": "Greenwood"
-        },
-        {
-            "id": "place-WR-0075",
-            "name": "Melrose Highlands"
-        },
-        {
-            "id": "place-WR-0067",
-            "name": "Melrose Cedar Park"
-        },
-        {
-            "id": "place-WR-0062",
-            "name": "Wyoming Hill"
-        },
-        {
-            "id": "place-mlmnl",
-            "name": "Malden Center"
-        }
-    ],
-    "Worcester": [
-        {
-            "id": "place-sstat",
-            "name": "South Station"
-        },
-        {
-            "id": "place-bbsta",
-            "name": "Back Bay"
-        },
-        {
-            "id": "place-WML-0025",
-            "name": "Lansdowne"
-        },
-        {
-            "id": "place-WML-0035",
-            "name": "Boston Landing"
-        },
-        {
-            "id": "place-WML-0081",
-            "name": "Newtonville"
-        },
-        {
-            "id": "place-WML-0091",
-            "name": "West Newton"
-        },
-        {
-            "id": "place-WML-0102",
-            "name": "Auburndale"
-        },
-        {
-            "id": "place-WML-0125",
-            "name": "Wellesley Farms"
-        },
-        {
-            "id": "place-WML-0135",
-            "name": "Wellesley Hills"
-        },
-        {
-            "id": "place-WML-0147",
-            "name": "Wellesley Square"
-        },
-        {
-            "id": "place-WML-0177",
-            "name": "Natick Center"
-        },
-        {
-            "id": "place-WML-0199",
-            "name": "West Natick"
-        },
-        {
-            "id": "place-WML-0214",
-            "name": "Framingham"
-        },
-        {
-            "id": "place-WML-0252",
-            "name": "Ashland"
-        },
-        {
-            "id": "place-WML-0274",
-            "name": "Southborough"
-        },
-        {
-            "id": "place-WML-0340",
-            "name": "Westborough"
-        },
-        {
-            "id": "place-WML-0364",
-            "name": "Grafton"
-        },
-        {
-            "id": "place-WML-0442",
-            "name": "Worcester"
-        },
-        {
-            "id": "place-rr-newton-corner",
-            "name": "Newton Corner"
-        },
-        {
-            "id": "place-rr-west-station",
-            "name": "West Station"
-        }
-    ],
-    "Red": [
-        {
-            "id": "place-alfcl",
-            "name": "Alewife"
-        },
-        {
-            "id": "place-davis",
-            "name": "Davis"
-        },
-        {
-            "id": "place-portr",
-            "name": "Porter"
-        },
-        {
-            "id": "place-harsq",
-            "name": "Harvard"
-        },
-        {
-            "id": "place-cntsq",
-            "name": "Central"
-        },
-        {
-            "id": "place-knncl",
-            "name": "Kendall/MIT"
-        },
-        {
-            "id": "place-chmnl",
-            "name": "Charles/MGH"
-        },
-        {
-            "id": "place-pktrm",
-            "name": "Park Street"
-        },
-        {
-            "id": "place-dwnxg",
-            "name": "Downtown Crossing"
-        },
-        {
-            "id": "place-sstat",
-            "name": "South Station"
-        },
-        {
-            "id": "place-brdwy",
-            "name": "Broadway"
-        },
-        {
-            "id": "place-andrw",
-            "name": "Andrew"
-        },
-        {
-            "id": "place-jfk",
-            "name": "JFK/UMass"
-        },
-        {
-            "id": "place-shmnl",
-            "name": "Savin Hill"
-        },
-        {
-            "id": "place-fldcr",
-            "name": "Fields Corner"
-        },
-        {
-            "id": "place-smmnl",
-            "name": "Shawmut"
-        },
-        {
-            "id": "place-asmnl",
-            "name": "Ashmont"
-        },
-        {
-            "id": "place-nqncy",
-            "name": "North Quincy"
-        },
-        {
-            "id": "place-wlsta",
-            "name": "Wollaston"
-        },
-        {
-            "id": "place-qnctr",
-            "name": "Quincy Center"
-        },
-        {
-            "id": "place-qamnl",
-            "name": "Quincy Adams"
-        },
-        {
-            "id": "place-brntn",
-            "name": "Braintree"
-        }
-    ],
-    "Green": [
-        {
-            "id": "place-lake",
-            "name": "Boston College"
-        },
-        {
-            "id": "place-sougr",
-            "name": "South Street"
-        },
-        {
-            "id": "place-chill",
-            "name": "Chestnut Hill Avenue"
-        },
-        {
-            "id": "place-chswk",
-            "name": "Chiswick Road"
-        },
-        {
-            "id": "place-sthld",
-            "name": "Sutherland Road"
-        },
-        {
-            "id": "place-wascm",
-            "name": "Washington Street"
-        },
-        {
-            "id": "place-alsgr",
-            "name": "Allston Street"
-        },
-        {
-            "id": "place-wrnst",
-            "name": "Warren Street"
-        },
-        {
-            "id": "place-grigg",
-            "name": "Griggs Street"
-        },
-        {
-            "id": "place-harvd",
-            "name": "Harvard Avenue"
-        },
-        {
-            "id": "place-brico",
-            "name": "Packards Corner"
-        },
-        {
-            "id": "place-babck",
-            "name": "Babcock Street"
-        },
-        {
-            "id": "place-plsgr",
-            "name": "Pleasant Street"
-        },
-        {
-            "id": "place-buwst",
-            "name": "Boston University West"
-        },
-        {
-            "id": "place-stplb",
-            "name": "Saint Paul Street"
-        },
-        {
-            "id": "place-bucen",
-            "name": "Boston University Central"
-        },
-        {
-            "id": "place-buest",
-            "name": "Boston University East"
-        },
-        {
-            "id": "place-bland",
-            "name": "Blandford Street"
-        },
-        {
-            "id": "place-kencl",
-            "name": "Kenmore"
-        },
-        {
-            "id": "place-hymnl",
-            "name": "Hynes Convention Center"
-        },
-        {
-            "id": "place-coecl",
-            "name": "Copley"
-        },
-        {
-            "id": "place-armnl",
-            "name": "Arlington"
-        },
-        {
-            "id": "place-boyls",
-            "name": "Boylston"
-        },
-        {
-            "id": "place-pktrm",
-            "name": "Park Street"
-        },
-        {
-            "id": "place-gover",
-            "name": "Government Center"
-        },
-        {
-            "id": "place-haecl",
-            "name": "Haymarket"
-        },
-        {
-            "id": "place-north",
-            "name": "North Station"
-        },
-        {
-            "id": "place-spmnl",
-            "name": "Science Park/West End"
-        },
-        {
-            "id": "place-lech",
-            "name": "Lechmere"
-        },
-        {
-            "id": "place-clmnl",
-            "name": "Cleveland Circle"
-        },
-        {
-            "id": "place-engav",
-            "name": "Englewood Avenue"
-        },
-        {
-            "id": "place-denrd",
-            "name": "Dean Road"
-        },
-        {
-            "id": "place-tapst",
-            "name": "Tappan Street"
-        },
-        {
-            "id": "place-bcnwa",
-            "name": "Washington Square"
-        },
-        {
-            "id": "place-bndhl",
-            "name": "Brandon Hall"
-        },
-        {
-            "id": "place-fbkst",
-            "name": "Fairbanks Street"
-        },
-        {
-            "id": "place-sumav",
-            "name": "Summit Avenue"
-        },
-        {
-            "id": "place-cool",
-            "name": "Coolidge Corner"
-        },
-        {
-            "id": "place-stpul",
-            "name": "Saint Paul Street"
-        },
-        {
-            "id": "place-kntst",
-            "name": "Kent Street"
-        },
-        {
-            "id": "place-hwsst",
-            "name": "Hawes Street"
-        },
-        {
-            "id": "place-smary",
-            "name": "Saint Marys Street"
-        },
-        {
-            "id": "place-river",
-            "name": "Riverside"
-        },
-        {
-            "id": "place-woodl",
-            "name": "Woodland"
-        },
-        {
-            "id": "place-waban",
-            "name": "Waban"
-        },
-        {
-            "id": "place-eliot",
-            "name": "Eliot"
-        },
-        {
-            "id": "place-newtn",
-            "name": "Newton Highlands"
-        },
-        {
-            "id": "place-newto",
-            "name": "Newton Centre"
-        },
-        {
-            "id": "place-chhil",
-            "name": "Chestnut Hill"
-        },
-        {
-            "id": "place-rsmnl",
-            "name": "Reservoir"
-        },
-        {
-            "id": "place-bcnfd",
-            "name": "Beaconsfield"
-        },
-        {
-            "id": "place-brkhl",
-            "name": "Brookline Hills"
-        },
-        {
-            "id": "place-bvmnl",
-            "name": "Brookline Village"
-        },
-        {
-            "id": "place-longw",
-            "name": "Longwood"
-        },
-        {
-            "id": "place-fenwy",
-            "name": "Fenway"
-        },
-        {
-            "id": "place-hsmnl",
-            "name": "Heath Street"
-        },
-        {
-            "id": "place-bckhl",
-            "name": "Back of the Hill"
-        },
-        {
-            "id": "place-rvrwy",
-            "name": "Riverway"
-        },
-        {
-            "id": "place-mispk",
-            "name": "Mission Park"
-        },
-        {
-            "id": "place-brmnl",
-            "name": "Brigham Circle"
-        },
-        {
-            "id": "place-fenwd",
-            "name": "Fenwood Road"
-        },
-        {
-            "id": "place-lngmd",
-            "name": "Longwood Medical Area"
-        },
-        {
-            "id": "place-mfa",
-            "name": "Museum of Fine Arts"
-        },
-        {
-            "id": "place-nuniv",
-            "name": "Northeastern University"
-        },
-        {
-            "id": "place-symcl",
-            "name": "Symphony"
-        },
-        {
-            "id": "place-prmnl",
-            "name": "Prudential"
-        }
-    ],
-    "Blue": [
-        {
-            "id": "place-orhte",
-            "name": "Orient Heights"
-        },
-        {
-            "id": "place-wimnl",
-            "name": "Wood Island"
-        },
-        {
-            "id": "place-aport",
-            "name": "Airport"
-        },
-        {
-            "id": "place-mvbcl",
-            "name": "Maverick"
-        },
-        {
-            "id": "place-aqucl",
-            "name": "Aquarium"
-        },
-        {
-            "id": "place-state",
-            "name": "State"
-        },
-        {
-            "id": "place-gover",
-            "name": "Government Center"
-        },
-        {
-            "id": "place-bomnl",
-            "name": "Bowdoin"
-        },
-        {
-            "id": "place-wondl",
-            "name": "Wonderland"
-        },
-        {
-            "id": "place-rbmnl",
-            "name": "Revere Beach"
-        },
-        {
-            "id": "place-bmmnl",
-            "name": "Beachmont"
-        },
-        {
-            "id": "place-sdmnl",
-            "name": "Suffolk Downs"
-        }
-    ],
-    "Orange": [
-        {
-            "id": "place-ogmnl",
-            "name": "Oak Grove"
-        },
-        {
-            "id": "place-mlmnl",
-            "name": "Malden Center"
-        },
-        {
-            "id": "place-welln",
-            "name": "Wellington"
-        },
-        {
-            "id": "place-astao",
-            "name": "Assembly"
-        },
-        {
-            "id": "place-sull",
-            "name": "Sullivan Square"
-        },
-        {
-            "id": "place-ccmnl",
-            "name": "Community College"
-        },
-        {
-            "id": "place-north",
-            "name": "North Station"
-        },
-        {
-            "id": "place-haecl",
-            "name": "Haymarket"
-        },
-        {
-            "id": "place-state",
-            "name": "State"
-        },
-        {
-            "id": "place-dwnxg",
-            "name": "Downtown Crossing"
-        },
-        {
-            "id": "place-chncl",
-            "name": "Chinatown"
-        },
-        {
-            "id": "place-tumnl",
-            "name": "Tufts Medical Center"
-        },
-        {
-            "id": "place-bbsta",
-            "name": "Back Bay"
-        },
-        {
-            "id": "place-masta",
-            "name": "Massachusetts Avenue"
-        },
-        {
-            "id": "place-rugg",
-            "name": "Ruggles"
-        },
-        {
-            "id": "place-rcmnl",
-            "name": "Roxbury Crossing"
-        },
-        {
-            "id": "place-jaksn",
-            "name": "Jackson Square"
-        },
-        {
-            "id": "place-sbmnl",
-            "name": "Stony Brook"
-        },
-        {
-            "id": "place-grnst",
-            "name": "Green Street"
-        },
-        {
-            "id": "place-forhl",
-            "name": "Forest Hills"
-        }
-    ]
+    "place-DB-0095": {
+        "id": "place-DB-0095",
+        "lat": 42.238405,
+        "long": -71.133246,
+        "name": "Readville",
+        "routes": [
+            "CR-Fairmount",
+            "CR-Franklin",
+            "CR-Providence"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-DB-2205": {
+        "id": "place-DB-2205",
+        "lat": 42.253638,
+        "long": -71.11927,
+        "name": "Fairmount",
+        "routes": [
+            "CR-Fairmount",
+            "CR-Franklin"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-DB-2222": {
+        "id": "place-DB-2222",
+        "lat": 42.271466,
+        "long": -71.095782,
+        "name": "Blue Hill Avenue",
+        "routes": [
+            "CR-Fairmount",
+            "CR-Franklin"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-DB-2230": {
+        "id": "place-DB-2230",
+        "lat": 42.280994,
+        "long": -71.085475,
+        "name": "Morton Street",
+        "routes": [
+            "CR-Fairmount",
+            "CR-Franklin"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-DB-2240": {
+        "id": "place-DB-2240",
+        "lat": 42.292246,
+        "long": -71.07814,
+        "name": "Talbot Avenue",
+        "routes": [
+            "CR-Fairmount",
+            "CR-Franklin"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-DB-2249": {
+        "id": "place-DB-2249",
+        "lat": 42.305037,
+        "long": -71.076833,
+        "name": "Four Corners/Geneva",
+        "routes": [
+            "CR-Fairmount",
+            "CR-Franklin"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-DB-2258": {
+        "id": "place-DB-2258",
+        "lat": 42.319125,
+        "long": -71.068627,
+        "name": "Uphams Corner",
+        "routes": [
+            "CR-Fairmount",
+            "CR-Franklin"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-DB-2265": {
+        "id": "place-DB-2265",
+        "lat": 42.327415,
+        "long": -71.065674,
+        "name": "Newmarket",
+        "routes": [
+            "CR-Fairmount",
+            "CR-Franklin"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-ER-0099": {
+        "id": "place-ER-0099",
+        "lat": 42.449927,
+        "long": -70.969848,
+        "name": "River Works",
+        "routes": [
+            "CR-Newburyport"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-ER-0117": {
+        "id": "place-ER-0117",
+        "lat": 42.4652901,
+        "long": -70.9404344,
+        "name": "Lynn Interim",
+        "routes": [
+            "CR-Newburyport"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-ER-0128": {
+        "id": "place-ER-0128",
+        "lat": 42.473743,
+        "long": -70.922537,
+        "name": "Swampscott",
+        "routes": [
+            "CR-Newburyport"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-ER-0168": {
+        "id": "place-ER-0168",
+        "lat": 42.524792,
+        "long": -70.895876,
+        "name": "Salem",
+        "routes": [
+            "CR-Newburyport"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-ER-0183": {
+        "id": "place-ER-0183",
+        "lat": 42.547276,
+        "long": -70.885432,
+        "name": "Beverly",
+        "routes": [
+            "CR-Newburyport"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-ER-0208": {
+        "id": "place-ER-0208",
+        "lat": 42.583779,
+        "long": -70.883851,
+        "name": "North Beverly",
+        "routes": [
+            "CR-Newburyport"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-ER-0227": {
+        "id": "place-ER-0227",
+        "lat": 42.609212,
+        "long": -70.874801,
+        "name": "Hamilton/Wenham",
+        "routes": [
+            "CR-Newburyport"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-ER-0276": {
+        "id": "place-ER-0276",
+        "lat": 42.676921,
+        "long": -70.840589,
+        "name": "Ipswich",
+        "routes": [
+            "CR-Newburyport"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-ER-0312": {
+        "id": "place-ER-0312",
+        "lat": 42.726845,
+        "long": -70.859034,
+        "name": "Rowley",
+        "routes": [
+            "CR-Newburyport"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-ER-0362": {
+        "id": "place-ER-0362",
+        "lat": 42.797837,
+        "long": -70.87797,
+        "name": "Newburyport",
+        "routes": [
+            "CR-Newburyport"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-FB-0109": {
+        "id": "place-FB-0109",
+        "lat": 42.233249,
+        "long": -71.158647,
+        "name": "Endicott",
+        "routes": [
+            "CR-Franklin"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-FB-0118": {
+        "id": "place-FB-0118",
+        "lat": 42.227079,
+        "long": -71.174254,
+        "name": "Dedham Corporate Center",
+        "routes": [
+            "CR-Franklin",
+            "CR-Foxboro"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-FB-0125": {
+        "id": "place-FB-0125",
+        "lat": 42.22105,
+        "long": -71.183961,
+        "name": "Islington",
+        "routes": [
+            "CR-Franklin"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-FB-0143": {
+        "id": "place-FB-0143",
+        "lat": 42.196857,
+        "long": -71.196688,
+        "name": "Norwood Depot",
+        "routes": [
+            "CR-Franklin"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-FB-0148": {
+        "id": "place-FB-0148",
+        "lat": 42.188775,
+        "long": -71.199665,
+        "name": "Norwood Central",
+        "routes": [
+            "CR-Franklin"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-FB-0166": {
+        "id": "place-FB-0166",
+        "lat": 42.172127,
+        "long": -71.219366,
+        "name": "Windsor Gardens",
+        "routes": [
+            "CR-Franklin"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-FB-0191": {
+        "id": "place-FB-0191",
+        "lat": 42.145477,
+        "long": -71.25779,
+        "name": "Walpole",
+        "routes": [
+            "CR-Franklin"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-FB-0230": {
+        "id": "place-FB-0230",
+        "lat": 42.120694,
+        "long": -71.325217,
+        "name": "Norfolk",
+        "routes": [
+            "CR-Franklin"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-FB-0275": {
+        "id": "place-FB-0275",
+        "lat": 42.083238,
+        "long": -71.396102,
+        "name": "Franklin",
+        "routes": [
+            "CR-Franklin"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-FB-0303": {
+        "id": "place-FB-0303",
+        "lat": 42.089941,
+        "long": -71.43902,
+        "name": "Forge Park/495",
+        "routes": [
+            "CR-Franklin"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-FR-0064": {
+        "id": "place-FR-0064",
+        "lat": 42.395896,
+        "long": -71.17619,
+        "name": "Belmont",
+        "routes": [
+            "CR-Fitchburg"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-FR-0074": {
+        "id": "place-FR-0074",
+        "lat": 42.3876,
+        "long": -71.190744,
+        "name": "Waverley",
+        "routes": [
+            "CR-Fitchburg"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-FR-0098": {
+        "id": "place-FR-0098",
+        "lat": 42.374296,
+        "long": -71.235615,
+        "name": "Waltham",
+        "routes": [
+            "CR-Fitchburg"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-FR-0115": {
+        "id": "place-FR-0115",
+        "lat": 42.361898,
+        "long": -71.260065,
+        "name": "Brandeis/Roberts",
+        "routes": [
+            "CR-Fitchburg"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-FR-0132": {
+        "id": "place-FR-0132",
+        "lat": 42.37897,
+        "long": -71.282411,
+        "name": "Kendal Green",
+        "routes": [
+            "CR-Fitchburg"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-FR-0147": {
+        "id": "place-FR-0147",
+        "lat": 42.395625,
+        "long": -71.302357,
+        "name": "Silver Hill",
+        "routes": [
+            "CR-Fitchburg"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-FR-0167": {
+        "id": "place-FR-0167",
+        "lat": 42.413641,
+        "long": -71.325512,
+        "name": "Lincoln",
+        "routes": [
+            "CR-Fitchburg"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-FR-0201": {
+        "id": "place-FR-0201",
+        "lat": 42.456565,
+        "long": -71.357677,
+        "name": "Concord",
+        "routes": [
+            "CR-Fitchburg"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-FR-0219": {
+        "id": "place-FR-0219",
+        "lat": 42.457043,
+        "long": -71.392892,
+        "name": "West Concord",
+        "routes": [
+            "CR-Fitchburg"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-FR-0253": {
+        "id": "place-FR-0253",
+        "lat": 42.460375,
+        "long": -71.457744,
+        "name": "South Acton",
+        "routes": [
+            "CR-Fitchburg"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-FR-0301": {
+        "id": "place-FR-0301",
+        "lat": 42.519236,
+        "long": -71.502643,
+        "name": "Littleton/Route 495",
+        "routes": [
+            "CR-Fitchburg"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-FR-0361": {
+        "id": "place-FR-0361",
+        "lat": 42.559074,
+        "long": -71.588476,
+        "name": "Ayer",
+        "routes": [
+            "CR-Fitchburg"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-FR-0394": {
+        "id": "place-FR-0394",
+        "lat": 42.545089,
+        "long": -71.648004,
+        "name": "Shirley",
+        "routes": [
+            "CR-Fitchburg"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-FR-0451": {
+        "id": "place-FR-0451",
+        "lat": 42.539017,
+        "long": -71.739186,
+        "name": "North Leominster",
+        "routes": [
+            "CR-Fitchburg"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-FR-0494": {
+        "id": "place-FR-0494",
+        "lat": 42.58072,
+        "long": -71.792611,
+        "name": "Fitchburg",
+        "routes": [
+            "CR-Fitchburg"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-FR-3338": {
+        "id": "place-FR-3338",
+        "lat": 42.553477,
+        "long": -71.848488,
+        "name": "Wachusett",
+        "routes": [
+            "CR-Fitchburg"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-FRS-0054": {
+        "id": "place-FRS-0054",
+        "lat": 41.773672,
+        "long": -71.090733,
+        "name": "Freetown",
+        "routes": [
+            "CR-NewBedford"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-FRS-0109": {
+        "id": "place-FRS-0109",
+        "lat": 41.713982,
+        "long": -71.154182,
+        "name": "Fall River Depot",
+        "routes": [
+            "CR-NewBedford"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-FS-0049": {
+        "id": "place-FS-0049",
+        "lat": 42.0951,
+        "long": -71.26151,
+        "name": "Foxboro",
+        "routes": [
+            "CR-Franklin",
+            "CR-Foxboro"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-GB-0198": {
+        "id": "place-GB-0198",
+        "lat": 42.562171,
+        "long": -70.869254,
+        "name": "Montserrat",
+        "routes": [
+            "CR-Newburyport"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-GB-0229": {
+        "id": "place-GB-0229",
+        "lat": 42.561651,
+        "long": -70.811405,
+        "name": "Beverly Farms",
+        "routes": [
+            "CR-Newburyport"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-GB-0254": {
+        "id": "place-GB-0254",
+        "lat": 42.573687,
+        "long": -70.77009,
+        "name": "Manchester",
+        "routes": [
+            "CR-Newburyport"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-GB-0296": {
+        "id": "place-GB-0296",
+        "lat": 42.611933,
+        "long": -70.705417,
+        "name": "West Gloucester",
+        "routes": [
+            "CR-Newburyport"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-GB-0316": {
+        "id": "place-GB-0316",
+        "lat": 42.616799,
+        "long": -70.668345,
+        "name": "Gloucester",
+        "routes": [
+            "CR-Newburyport"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-GB-0353": {
+        "id": "place-GB-0353",
+        "lat": 42.655491,
+        "long": -70.627055,
+        "name": "Rockport",
+        "routes": [
+            "CR-Newburyport"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-GRB-0118": {
+        "id": "place-GRB-0118",
+        "lat": 42.221503,
+        "long": -70.968152,
+        "name": "Weymouth Landing/East Braintree",
+        "routes": [
+            "CR-Greenbush"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-GRB-0146": {
+        "id": "place-GRB-0146",
+        "lat": 42.2191,
+        "long": -70.9214,
+        "name": "East Weymouth",
+        "routes": [
+            "CR-Greenbush"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-GRB-0162": {
+        "id": "place-GRB-0162",
+        "lat": 42.235838,
+        "long": -70.902708,
+        "name": "West Hingham",
+        "routes": [
+            "CR-Greenbush"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-GRB-0183": {
+        "id": "place-GRB-0183",
+        "lat": 42.244959,
+        "long": -70.869205,
+        "name": "Nantasket Junction",
+        "routes": [
+            "CR-Greenbush"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-GRB-0199": {
+        "id": "place-GRB-0199",
+        "lat": 42.24421,
+        "long": -70.837529,
+        "name": "Cohasset",
+        "routes": [
+            "CR-Greenbush"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-GRB-0233": {
+        "id": "place-GRB-0233",
+        "lat": 42.219528,
+        "long": -70.788602,
+        "name": "North Scituate",
+        "routes": [
+            "CR-Greenbush"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-GRB-0276": {
+        "id": "place-GRB-0276",
+        "lat": 42.178776,
+        "long": -70.746641,
+        "name": "Greenbush",
+        "routes": [
+            "CR-Greenbush"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-KB-0351": {
+        "id": "place-KB-0351",
+        "lat": 41.97762,
+        "long": -70.721709,
+        "name": "Kingston",
+        "routes": [
+            "CR-Kingston"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-MBS-0350": {
+        "id": "place-MBS-0350",
+        "lat": 41.887,
+        "long": -70.923209,
+        "name": "Middleborough",
+        "routes": [
+            "CR-NewBedford"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-MM-0150": {
+        "id": "place-MM-0150",
+        "lat": 42.156343,
+        "long": -71.027371,
+        "name": "Holbrook/Randolph",
+        "routes": [
+            "CR-NewBedford"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-MM-0186": {
+        "id": "place-MM-0186",
+        "lat": 42.106555,
+        "long": -71.022001,
+        "name": "Montello",
+        "routes": [
+            "CR-NewBedford"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-MM-0200": {
+        "id": "place-MM-0200",
+        "lat": 42.084659,
+        "long": -71.016534,
+        "name": "Brockton",
+        "routes": [
+            "CR-NewBedford"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-MM-0219": {
+        "id": "place-MM-0219",
+        "lat": 42.060951,
+        "long": -71.011004,
+        "name": "Campello",
+        "routes": [
+            "CR-NewBedford"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-MM-0277": {
+        "id": "place-MM-0277",
+        "lat": 41.984916,
+        "long": -70.96537,
+        "name": "Bridgewater",
+        "routes": [
+            "CR-NewBedford"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NB-0064": {
+        "id": "place-NB-0064",
+        "lat": 42.287442,
+        "long": -71.130283,
+        "name": "Roslindale Village",
+        "routes": [
+            "CR-Needham"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NB-0072": {
+        "id": "place-NB-0072",
+        "lat": 42.286588,
+        "long": -71.145557,
+        "name": "Bellevue",
+        "routes": [
+            "CR-Needham"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NB-0076": {
+        "id": "place-NB-0076",
+        "lat": 42.284969,
+        "long": -71.153937,
+        "name": "Highland",
+        "routes": [
+            "CR-Needham"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NB-0080": {
+        "id": "place-NB-0080",
+        "lat": 42.281358,
+        "long": -71.160065,
+        "name": "West Roxbury",
+        "routes": [
+            "CR-Needham"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NB-0109": {
+        "id": "place-NB-0109",
+        "lat": 42.275648,
+        "long": -71.215528,
+        "name": "Hersey",
+        "routes": [
+            "CR-Needham"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NB-0120": {
+        "id": "place-NB-0120",
+        "lat": 42.273187,
+        "long": -71.235559,
+        "name": "Needham Junction",
+        "routes": [
+            "CR-Needham"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NB-0127": {
+        "id": "place-NB-0127",
+        "lat": 42.280775,
+        "long": -71.237686,
+        "name": "Needham Center",
+        "routes": [
+            "CR-Needham"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NB-0137": {
+        "id": "place-NB-0137",
+        "lat": 42.293444,
+        "long": -71.236027,
+        "name": "Needham Heights",
+        "routes": [
+            "CR-Needham"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NBM-0374": {
+        "id": "place-NBM-0374",
+        "lat": 41.868197,
+        "long": -71.061694,
+        "name": "East Taunton",
+        "routes": [
+            "CR-NewBedford"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NBM-0523": {
+        "id": "place-NBM-0523",
+        "lat": 41.674308,
+        "long": -70.939322,
+        "name": "Church Street",
+        "routes": [
+            "CR-NewBedford"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NBM-0546": {
+        "id": "place-NBM-0546",
+        "lat": 41.643703,
+        "long": -70.9252,
+        "name": "New Bedford",
+        "routes": [
+            "CR-NewBedford"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NEC-1659": {
+        "id": "place-NEC-1659",
+        "lat": 41.581289,
+        "long": -71.491147,
+        "name": "Wickford Junction",
+        "routes": [
+            "CR-Providence"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NEC-1768": {
+        "id": "place-NEC-1768",
+        "lat": 41.726599,
+        "long": -71.442453,
+        "name": "TF Green Airport",
+        "routes": [
+            "CR-Providence"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NEC-1851": {
+        "id": "place-NEC-1851",
+        "lat": 41.829293,
+        "long": -71.413301,
+        "name": "Providence",
+        "routes": [
+            "CR-Providence",
+            "CR-Foxboro"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NEC-1891": {
+        "id": "place-NEC-1891",
+        "lat": 41.878762,
+        "long": -71.392,
+        "name": "Pawtucket/Central Falls",
+        "routes": [
+            "CR-Providence",
+            "CR-Foxboro"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NEC-1919": {
+        "id": "place-NEC-1919",
+        "lat": 41.897943,
+        "long": -71.354621,
+        "name": "South Attleboro",
+        "routes": [
+            "CR-Providence"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NEC-1969": {
+        "id": "place-NEC-1969",
+        "lat": 41.940739,
+        "long": -71.285094,
+        "name": "Attleboro",
+        "routes": [
+            "CR-Providence",
+            "CR-Foxboro"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NEC-2040": {
+        "id": "place-NEC-2040",
+        "lat": 42.032787,
+        "long": -71.219917,
+        "name": "Mansfield",
+        "routes": [
+            "CR-Providence",
+            "CR-Foxboro"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NEC-2108": {
+        "id": "place-NEC-2108",
+        "lat": 42.124553,
+        "long": -71.184468,
+        "name": "Sharon",
+        "routes": [
+            "CR-Providence"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NEC-2139": {
+        "id": "place-NEC-2139",
+        "lat": 42.163204,
+        "long": -71.15376,
+        "name": "Canton Junction",
+        "routes": [
+            "CR-Providence"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NEC-2173": {
+        "id": "place-NEC-2173",
+        "lat": 42.210308,
+        "long": -71.147134,
+        "name": "Route 128",
+        "routes": [
+            "CR-Providence"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NEC-2203": {
+        "id": "place-NEC-2203",
+        "lat": 42.25503,
+        "long": -71.125526,
+        "name": "Hyde Park",
+        "routes": [
+            "CR-Franklin",
+            "CR-Providence"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NHRML-0055": {
+        "id": "place-NHRML-0055",
+        "lat": 42.421776,
+        "long": -71.133342,
+        "name": "West Medford",
+        "routes": [
+            "CR-Lowell"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NHRML-0073": {
+        "id": "place-NHRML-0073",
+        "lat": 42.444948,
+        "long": -71.140169,
+        "name": "Wedgemere",
+        "routes": [
+            "CR-Lowell"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NHRML-0078": {
+        "id": "place-NHRML-0078",
+        "lat": 42.451088,
+        "long": -71.13783,
+        "name": "Winchester Center",
+        "routes": [
+            "CR-Lowell"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NHRML-0127": {
+        "id": "place-NHRML-0127",
+        "lat": 42.516987,
+        "long": -71.144475,
+        "name": "Anderson/Woburn",
+        "routes": [
+            "CR-Haverhill",
+            "CR-Lowell"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NHRML-0152": {
+        "id": "place-NHRML-0152",
+        "lat": 42.546624,
+        "long": -71.174334,
+        "name": "Wilmington",
+        "routes": [
+            "CR-Lowell"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NHRML-0218": {
+        "id": "place-NHRML-0218",
+        "lat": 42.593248,
+        "long": -71.280995,
+        "name": "North Billerica",
+        "routes": [
+            "CR-Lowell"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-NHRML-0254": {
+        "id": "place-NHRML-0254",
+        "lat": 42.63535,
+        "long": -71.314543,
+        "name": "Lowell",
+        "routes": [
+            "CR-Lowell"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-PB-0158": {
+        "id": "place-PB-0158",
+        "lat": 42.155025,
+        "long": -70.953302,
+        "name": "South Weymouth",
+        "routes": [
+            "CR-Kingston"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-PB-0194": {
+        "id": "place-PB-0194",
+        "lat": 42.107156,
+        "long": -70.934405,
+        "name": "Abington",
+        "routes": [
+            "CR-Kingston"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-PB-0212": {
+        "id": "place-PB-0212",
+        "lat": 42.082749,
+        "long": -70.923411,
+        "name": "Whitman",
+        "routes": [
+            "CR-Kingston"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-PB-0245": {
+        "id": "place-PB-0245",
+        "lat": 42.043967,
+        "long": -70.882438,
+        "name": "Hanson",
+        "routes": [
+            "CR-Kingston"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-PB-0281": {
+        "id": "place-PB-0281",
+        "lat": 42.014739,
+        "long": -70.824263,
+        "name": "Halifax",
+        "routes": [
+            "CR-Kingston"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-SB-0156": {
+        "id": "place-SB-0156",
+        "lat": 42.157095,
+        "long": -71.14628,
+        "name": "Canton Center",
+        "routes": [
+            "CR-Providence"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-SB-0189": {
+        "id": "place-SB-0189",
+        "lat": 42.124084,
+        "long": -71.103627,
+        "name": "Stoughton",
+        "routes": [
+            "CR-Providence"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-WML-0025": {
+        "id": "place-WML-0025",
+        "lat": 42.347581,
+        "long": -71.099974,
+        "name": "Lansdowne",
+        "routes": [
+            "CR-Worcester"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-WML-0035": {
+        "id": "place-WML-0035",
+        "lat": 42.357293,
+        "long": -71.139883,
+        "name": "Boston Landing",
+        "routes": [
+            "CR-Worcester"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-WML-0081": {
+        "id": "place-WML-0081",
+        "lat": 42.351702,
+        "long": -71.205408,
+        "name": "Newtonville",
+        "routes": [
+            "CR-Worcester"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-WML-0091": {
+        "id": "place-WML-0091",
+        "lat": 42.347878,
+        "long": -71.230528,
+        "name": "West Newton",
+        "routes": [
+            "CR-Worcester"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-WML-0102": {
+        "id": "place-WML-0102",
+        "lat": 42.345833,
+        "long": -71.250373,
+        "name": "Auburndale",
+        "routes": [
+            "CR-Worcester"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-WML-0125": {
+        "id": "place-WML-0125",
+        "lat": 42.323608,
+        "long": -71.272288,
+        "name": "Wellesley Farms",
+        "routes": [
+            "CR-Worcester"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-WML-0135": {
+        "id": "place-WML-0135",
+        "lat": 42.31037,
+        "long": -71.277044,
+        "name": "Wellesley Hills",
+        "routes": [
+            "CR-Worcester"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-WML-0147": {
+        "id": "place-WML-0147",
+        "lat": 42.297526,
+        "long": -71.294173,
+        "name": "Wellesley Square",
+        "routes": [
+            "CR-Worcester"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-WML-0177": {
+        "id": "place-WML-0177",
+        "lat": 42.285719,
+        "long": -71.347133,
+        "name": "Natick Center",
+        "routes": [
+            "CR-Worcester"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-WML-0199": {
+        "id": "place-WML-0199",
+        "lat": 42.283064,
+        "long": -71.391797,
+        "name": "West Natick",
+        "routes": [
+            "CR-Worcester"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-WML-0214": {
+        "id": "place-WML-0214",
+        "lat": 42.276108,
+        "long": -71.420055,
+        "name": "Framingham",
+        "routes": [
+            "CR-Worcester"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-WML-0252": {
+        "id": "place-WML-0252",
+        "lat": 42.26149,
+        "long": -71.482161,
+        "name": "Ashland",
+        "routes": [
+            "CR-Worcester"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-WML-0274": {
+        "id": "place-WML-0274",
+        "lat": 42.267024,
+        "long": -71.524371,
+        "name": "Southborough",
+        "routes": [
+            "CR-Worcester"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-WML-0340": {
+        "id": "place-WML-0340",
+        "lat": 42.269644,
+        "long": -71.647076,
+        "name": "Westborough",
+        "routes": [
+            "CR-Worcester"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-WML-0364": {
+        "id": "place-WML-0364",
+        "lat": 42.2466,
+        "long": -71.685325,
+        "name": "Grafton",
+        "routes": [
+            "CR-Worcester"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-WML-0442": {
+        "id": "place-WML-0442",
+        "lat": 42.261291,
+        "long": -71.794927,
+        "name": "Worcester",
+        "routes": [
+            "CR-Worcester"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-WR-0062": {
+        "id": "place-WR-0062",
+        "lat": 42.451731,
+        "long": -71.069379,
+        "name": "Wyoming Hill",
+        "routes": [
+            "CR-Haverhill"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-WR-0067": {
+        "id": "place-WR-0067",
+        "lat": 42.458768,
+        "long": -71.069789,
+        "name": "Melrose/Cedar Park",
+        "routes": [
+            "CR-Haverhill"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-WR-0075": {
+        "id": "place-WR-0075",
+        "lat": 42.469464,
+        "long": -71.068297,
+        "name": "Melrose Highlands",
+        "routes": [
+            "CR-Haverhill"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-WR-0085": {
+        "id": "place-WR-0085",
+        "lat": 42.483005,
+        "long": -71.067247,
+        "name": "Greenwood",
+        "routes": [
+            "CR-Haverhill"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-WR-0099": {
+        "id": "place-WR-0099",
+        "lat": 42.502126,
+        "long": -71.075566,
+        "name": "Wakefield",
+        "routes": [
+            "CR-Haverhill"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-WR-0120": {
+        "id": "place-WR-0120",
+        "lat": 42.52221,
+        "long": -71.108294,
+        "name": "Reading",
+        "routes": [
+            "CR-Haverhill"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-WR-0163": {
+        "id": "place-WR-0163",
+        "lat": 42.571073,
+        "long": -71.160939,
+        "name": "North Wilmington",
+        "routes": [
+            "CR-Haverhill"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-WR-0205": {
+        "id": "place-WR-0205",
+        "lat": 42.627356,
+        "long": -71.159962,
+        "name": "Ballardvale",
+        "routes": [
+            "CR-Haverhill"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-WR-0228": {
+        "id": "place-WR-0228",
+        "lat": 42.658336,
+        "long": -71.144502,
+        "name": "Andover",
+        "routes": [
+            "CR-Haverhill"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-WR-0264": {
+        "id": "place-WR-0264",
+        "lat": 42.701806,
+        "long": -71.15198,
+        "name": "Lawrence",
+        "routes": [
+            "CR-Haverhill"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-WR-0325": {
+        "id": "place-WR-0325",
+        "lat": 42.766912,
+        "long": -71.088411,
+        "name": "Bradford",
+        "routes": [
+            "CR-Haverhill"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-WR-0329": {
+        "id": "place-WR-0329",
+        "lat": 42.773474,
+        "long": -71.086237,
+        "name": "Haverhill",
+        "routes": [
+            "CR-Haverhill"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-alfcl": {
+        "id": "place-alfcl",
+        "lat": 42.39583,
+        "long": -71.141287,
+        "name": "Alewife",
+        "routes": [
+            "Red"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-alsgr": {
+        "id": "place-alsgr",
+        "lat": 42.348701,
+        "long": -71.137955,
+        "name": "Allston Street",
+        "routes": [
+            "Green-B"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-amory": {
+        "id": "place-amory",
+        "lat": 42.350992,
+        "long": -71.114748,
+        "name": "Amory Street",
+        "routes": [
+            "Green-B"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-andrw": {
+        "id": "place-andrw",
+        "lat": 42.330154,
+        "long": -71.057655,
+        "name": "Andrew",
+        "routes": [
+            "Red"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-aport": {
+        "id": "place-aport",
+        "lat": 42.374262,
+        "long": -71.030395,
+        "name": "Airport",
+        "routes": [
+            "Blue",
+            "743"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-aqucl": {
+        "id": "place-aqucl",
+        "lat": 42.359784,
+        "long": -71.051652,
+        "name": "Aquarium",
+        "routes": [
+            "Blue"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-armnl": {
+        "id": "place-armnl",
+        "lat": 42.351902,
+        "long": -71.070893,
+        "name": "Arlington",
+        "routes": [
+            "Green-B",
+            "Green-C",
+            "Green-D",
+            "Green-E"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-asmnl": {
+        "id": "place-asmnl",
+        "lat": 42.28452,
+        "long": -71.063777,
+        "name": "Ashmont",
+        "routes": [
+            "Red",
+            "Mattapan"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-astao": {
+        "id": "place-astao",
+        "lat": 42.392811,
+        "long": -71.077257,
+        "name": "Assembly",
+        "routes": [
+            "Orange"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-babck": {
+        "id": "place-babck",
+        "lat": 42.351616,
+        "long": -71.119924,
+        "name": "Babcock Street",
+        "routes": [
+            "Green-B"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-balsq": {
+        "id": "place-balsq",
+        "lat": 42.399889,
+        "long": -71.111003,
+        "name": "Ball Square",
+        "routes": [
+            "Green-E"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-bbsta": {
+        "id": "place-bbsta",
+        "lat": 42.34735,
+        "long": -71.075727,
+        "name": "Back Bay",
+        "routes": [
+            "Orange",
+            "CR-Worcester",
+            "CR-Franklin",
+            "CR-Needham",
+            "CR-Providence",
+            "CR-Foxboro"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-bckhl": {
+        "id": "place-bckhl",
+        "lat": 42.330139,
+        "long": -71.111313,
+        "name": "Back of the Hill",
+        "routes": [
+            "Green-E"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-bcnfd": {
+        "id": "place-bcnfd",
+        "lat": 42.335765,
+        "long": -71.140455,
+        "name": "Beaconsfield",
+        "routes": [
+            "Green-D"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-bcnwa": {
+        "id": "place-bcnwa",
+        "lat": 42.339394,
+        "long": -71.13533,
+        "name": "Washington Square",
+        "routes": [
+            "Green-C"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-belsq": {
+        "id": "place-belsq",
+        "lat": 42.395438,
+        "long": -71.033884,
+        "name": "Bellingham Square",
+        "routes": [
+            "743"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-bland": {
+        "id": "place-bland",
+        "lat": 42.349293,
+        "long": -71.100258,
+        "name": "Blandford Street",
+        "routes": [
+            "Green-B"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-bmmnl": {
+        "id": "place-bmmnl",
+        "lat": 42.3975423,
+        "long": -70.9923194,
+        "name": "Beachmont",
+        "routes": [
+            "Blue"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-bndhl": {
+        "id": "place-bndhl",
+        "lat": 42.340023,
+        "long": -71.129082,
+        "name": "Brandon Hall",
+        "routes": [
+            "Green-C"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-bomnl": {
+        "id": "place-bomnl",
+        "lat": 42.361365,
+        "long": -71.062037,
+        "name": "Bowdoin",
+        "routes": [
+            "Blue"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-boxdt": {
+        "id": "place-boxdt",
+        "lat": 42.394049,
+        "long": -71.028365,
+        "name": "Box District",
+        "routes": [
+            "743"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-boyls": {
+        "id": "place-boyls",
+        "lat": 42.35302,
+        "long": -71.06459,
+        "name": "Boylston",
+        "routes": [
+            "Green-B",
+            "Green-C",
+            "Green-D",
+            "Green-E"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-brdwy": {
+        "id": "place-brdwy",
+        "lat": 42.342622,
+        "long": -71.056967,
+        "name": "Broadway",
+        "routes": [
+            "Red"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-brico": {
+        "id": "place-brico",
+        "lat": 42.351967,
+        "long": -71.125031,
+        "name": "Packard's Corner",
+        "routes": [
+            "Green-B"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-brkhl": {
+        "id": "place-brkhl",
+        "lat": 42.331316,
+        "long": -71.126683,
+        "name": "Brookline Hills",
+        "routes": [
+            "Green-D"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-brmnl": {
+        "id": "place-brmnl",
+        "lat": 42.334229,
+        "long": -71.104609,
+        "name": "Brigham Circle",
+        "routes": [
+            "Green-E"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-brntn": {
+        "id": "place-brntn",
+        "lat": 42.2078543,
+        "long": -71.0011385,
+        "name": "Braintree",
+        "routes": [
+            "Red",
+            "CR-NewBedford",
+            "CR-Greenbush",
+            "CR-Kingston"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-bucen": {
+        "id": "place-bucen",
+        "lat": 42.350082,
+        "long": -71.106865,
+        "name": "Boston University Central",
+        "routes": [
+            "Green-B"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-buest": {
+        "id": "place-buest",
+        "lat": 42.349735,
+        "long": -71.103889,
+        "name": "Boston University East",
+        "routes": [
+            "Green-B"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-butlr": {
+        "id": "place-butlr",
+        "lat": 42.272429,
+        "long": -71.062519,
+        "name": "Butler",
+        "routes": [
+            "Mattapan"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-bvmnl": {
+        "id": "place-bvmnl",
+        "lat": 42.332608,
+        "long": -71.116857,
+        "name": "Brookline Village",
+        "routes": [
+            "Green-D"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-capst": {
+        "id": "place-capst",
+        "lat": 42.267563,
+        "long": -71.087338,
+        "name": "Capen Street",
+        "routes": [
+            "Mattapan"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-ccmnl": {
+        "id": "place-ccmnl",
+        "lat": 42.373622,
+        "long": -71.069533,
+        "name": "Community College",
+        "routes": [
+            "Orange"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-cedgr": {
+        "id": "place-cedgr",
+        "lat": 42.279629,
+        "long": -71.060394,
+        "name": "Cedar Grove",
+        "routes": [
+            "Mattapan"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-cenav": {
+        "id": "place-cenav",
+        "lat": 42.270027,
+        "long": -71.073444,
+        "name": "Central Avenue",
+        "routes": [
+            "Mattapan"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-chels": {
+        "id": "place-chels",
+        "lat": 42.397024,
+        "long": -71.041314,
+        "name": "Chelsea",
+        "routes": [
+            "CR-Newburyport",
+            "743"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-chhil": {
+        "id": "place-chhil",
+        "lat": 42.326753,
+        "long": -71.164699,
+        "name": "Chestnut Hill",
+        "routes": [
+            "Green-D"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-chill": {
+        "id": "place-chill",
+        "lat": 42.338169,
+        "long": -71.15316,
+        "name": "Chestnut Hill Avenue",
+        "routes": [
+            "Green-B"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-chmnl": {
+        "id": "place-chmnl",
+        "lat": 42.361166,
+        "long": -71.070628,
+        "name": "Charles/MGH",
+        "routes": [
+            "Red"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-chncl": {
+        "id": "place-chncl",
+        "lat": 42.352547,
+        "long": -71.062752,
+        "name": "Chinatown",
+        "routes": [
+            "Orange"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-chswk": {
+        "id": "place-chswk",
+        "lat": 42.340805,
+        "long": -71.150711,
+        "name": "Chiswick Road",
+        "routes": [
+            "Green-B"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-clmnl": {
+        "id": "place-clmnl",
+        "lat": 42.336142,
+        "long": -71.149326,
+        "name": "Cleveland Circle",
+        "routes": [
+            "Green-C"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-cntsq": {
+        "id": "place-cntsq",
+        "lat": 42.365486,
+        "long": -71.103802,
+        "name": "Central",
+        "routes": [
+            "Red"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-coecl": {
+        "id": "place-coecl",
+        "lat": 42.349974,
+        "long": -71.077447,
+        "name": "Copley",
+        "routes": [
+            "Green-B",
+            "Green-C",
+            "Green-D",
+            "Green-E"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-conrd": {
+        "id": "place-conrd",
+        "lat": 42.347154,
+        "long": -71.038385,
+        "name": "Silver Line Way",
+        "routes": [
+            "741",
+            "742",
+            "743",
+            "746"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-cool": {
+        "id": "place-cool",
+        "lat": 42.342116,
+        "long": -71.121263,
+        "name": "Coolidge Corner",
+        "routes": [
+            "Green-C"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-crtst": {
+        "id": "place-crtst",
+        "lat": 42.35245,
+        "long": -71.04685,
+        "name": "Courthouse",
+        "routes": [
+            "741",
+            "742",
+            "743",
+            "746"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-davis": {
+        "id": "place-davis",
+        "lat": 42.39674,
+        "long": -71.121815,
+        "name": "Davis",
+        "routes": [
+            "Red"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-denrd": {
+        "id": "place-denrd",
+        "lat": 42.337656,
+        "long": -71.142156,
+        "name": "Dean Road",
+        "routes": [
+            "Green-C"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-dwnxg": {
+        "id": "place-dwnxg",
+        "lat": 42.355518,
+        "long": -71.060225,
+        "name": "Downtown Crossing",
+        "routes": [
+            "Red",
+            "Orange"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-eliot": {
+        "id": "place-eliot",
+        "lat": 42.319045,
+        "long": -71.216684,
+        "name": "Eliot",
+        "routes": [
+            "Green-D"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-engav": {
+        "id": "place-engav",
+        "lat": 42.337104,
+        "long": -71.144852,
+        "name": "Englewood Avenue",
+        "routes": [
+            "Green-C"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-esomr": {
+        "id": "place-esomr",
+        "lat": 42.379467,
+        "long": -71.086625,
+        "name": "East Somerville",
+        "routes": [
+            "Green-E"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-estav": {
+        "id": "place-estav",
+        "lat": 42.388374,
+        "long": -71.023859,
+        "name": "Eastern Avenue",
+        "routes": [
+            "743"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-fbkst": {
+        "id": "place-fbkst",
+        "lat": 42.339725,
+        "long": -71.131073,
+        "name": "Fairbanks Street",
+        "routes": [
+            "Green-C"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-fenwd": {
+        "id": "place-fenwd",
+        "lat": 42.333706,
+        "long": -71.105728,
+        "name": "Fenwood Road",
+        "routes": [
+            "Green-E"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-fenwy": {
+        "id": "place-fenwy",
+        "lat": 42.345403,
+        "long": -71.104213,
+        "name": "Fenway",
+        "routes": [
+            "Green-D"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-fldcr": {
+        "id": "place-fldcr",
+        "lat": 42.300093,
+        "long": -71.061667,
+        "name": "Fields Corner",
+        "routes": [
+            "Red"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-forhl": {
+        "id": "place-forhl",
+        "lat": 42.300713,
+        "long": -71.113943,
+        "name": "Forest Hills",
+        "routes": [
+            "Orange",
+            "CR-Franklin",
+            "CR-Needham",
+            "CR-Providence"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-gilmn": {
+        "id": "place-gilmn",
+        "lat": 42.387928,
+        "long": -71.096766,
+        "name": "Gilman Square",
+        "routes": [
+            "Green-E"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-gover": {
+        "id": "place-gover",
+        "lat": 42.359705,
+        "long": -71.059215,
+        "name": "Government Center",
+        "routes": [
+            "Green-B",
+            "Green-C",
+            "Green-D",
+            "Green-E",
+            "Blue"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-grigg": {
+        "id": "place-grigg",
+        "lat": 42.348545,
+        "long": -71.134949,
+        "name": "Griggs Street",
+        "routes": [
+            "Green-B"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-grnst": {
+        "id": "place-grnst",
+        "lat": 42.310525,
+        "long": -71.107414,
+        "name": "Green Street",
+        "routes": [
+            "Orange"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-haecl": {
+        "id": "place-haecl",
+        "lat": 42.363021,
+        "long": -71.05829,
+        "name": "Haymarket",
+        "routes": [
+            "Orange",
+            "Green-D",
+            "Green-E"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-harsq": {
+        "id": "place-harsq",
+        "lat": 42.373362,
+        "long": -71.118956,
+        "name": "Harvard",
+        "routes": [
+            "Red"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-harvd": {
+        "id": "place-harvd",
+        "lat": 42.350243,
+        "long": -71.131355,
+        "name": "Harvard Avenue",
+        "routes": [
+            "Green-B"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-hsmnl": {
+        "id": "place-hsmnl",
+        "lat": 42.328316,
+        "long": -71.110252,
+        "name": "Heath Street",
+        "routes": [
+            "Green-E"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-hwsst": {
+        "id": "place-hwsst",
+        "lat": 42.344906,
+        "long": -71.111145,
+        "name": "Hawes Street",
+        "routes": [
+            "Green-C"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-hymnl": {
+        "id": "place-hymnl",
+        "lat": 42.347888,
+        "long": -71.087903,
+        "name": "Hynes Convention Center",
+        "routes": [
+            "Green-B",
+            "Green-C",
+            "Green-D"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-jaksn": {
+        "id": "place-jaksn",
+        "lat": 42.323132,
+        "long": -71.099592,
+        "name": "Jackson Square",
+        "routes": [
+            "Orange"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-jfk": {
+        "id": "place-jfk",
+        "lat": 42.320685,
+        "long": -71.052391,
+        "name": "JFK/UMass",
+        "routes": [
+            "Red",
+            "CR-NewBedford",
+            "CR-Greenbush",
+            "CR-Kingston"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-kencl": {
+        "id": "place-kencl",
+        "lat": 42.348949,
+        "long": -71.095169,
+        "name": "Kenmore",
+        "routes": [
+            "Green-B",
+            "Green-C",
+            "Green-D"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-knncl": {
+        "id": "place-knncl",
+        "lat": 42.3624908,
+        "long": -71.0861765,
+        "name": "Kendall/MIT",
+        "routes": [
+            "Red"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-kntst": {
+        "id": "place-kntst",
+        "lat": 42.344074,
+        "long": -71.114197,
+        "name": "Kent Street",
+        "routes": [
+            "Green-C"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-lake": {
+        "id": "place-lake",
+        "lat": 42.340081,
+        "long": -71.166769,
+        "name": "Boston College",
+        "routes": [
+            "Green-B"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-lech": {
+        "id": "place-lech",
+        "lat": 42.371572,
+        "long": -71.076584,
+        "name": "Lechmere",
+        "routes": [
+            "Green-D",
+            "Green-E"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-lngmd": {
+        "id": "place-lngmd",
+        "lat": 42.33596,
+        "long": -71.100052,
+        "name": "Longwood Medical Area",
+        "routes": [
+            "Green-E"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-longw": {
+        "id": "place-longw",
+        "lat": 42.341702,
+        "long": -71.109956,
+        "name": "Longwood",
+        "routes": [
+            "Green-D"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-masta": {
+        "id": "place-masta",
+        "lat": 42.341512,
+        "long": -71.083423,
+        "name": "Massachusetts Avenue",
+        "routes": [
+            "Orange"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-matt": {
+        "id": "place-matt",
+        "lat": 42.26762,
+        "long": -71.092486,
+        "name": "Mattapan",
+        "routes": [
+            "Mattapan"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-mdftf": {
+        "id": "place-mdftf",
+        "lat": 42.407975,
+        "long": -71.117044,
+        "name": "Medford/Tufts",
+        "routes": [
+            "Green-E"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-mfa": {
+        "id": "place-mfa",
+        "lat": 42.337711,
+        "long": -71.095512,
+        "name": "Museum of Fine Arts",
+        "routes": [
+            "Green-E"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-mgngl": {
+        "id": "place-mgngl",
+        "lat": 42.393682,
+        "long": -71.1063879,
+        "name": "Magoun Square",
+        "routes": [
+            "Green-E"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-miltt": {
+        "id": "place-miltt",
+        "lat": 42.270349,
+        "long": -71.067266,
+        "name": "Milton",
+        "routes": [
+            "Mattapan"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-mispk": {
+        "id": "place-mispk",
+        "lat": 42.333195,
+        "long": -71.109756,
+        "name": "Mission Park",
+        "routes": [
+            "Green-E"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-mlmnl": {
+        "id": "place-mlmnl",
+        "lat": 42.426632,
+        "long": -71.07411,
+        "name": "Malden Center",
+        "routes": [
+            "Orange",
+            "CR-Haverhill"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-mvbcl": {
+        "id": "place-mvbcl",
+        "lat": 42.3691186,
+        "long": -71.0395296,
+        "name": "Maverick",
+        "routes": [
+            "Blue"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-newtn": {
+        "id": "place-newtn",
+        "lat": 42.322381,
+        "long": -71.205509,
+        "name": "Newton Highlands",
+        "routes": [
+            "Green-D"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-newto": {
+        "id": "place-newto",
+        "lat": 42.329443,
+        "long": -71.192414,
+        "name": "Newton Centre",
+        "routes": [
+            "Green-D"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-north": {
+        "id": "place-north",
+        "lat": 42.365577,
+        "long": -71.06129,
+        "name": "North Station",
+        "routes": [
+            "Orange",
+            "Green-D",
+            "Green-E",
+            "CR-Fitchburg",
+            "CR-Haverhill",
+            "CR-Lowell",
+            "CR-Newburyport"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-nqncy": {
+        "id": "place-nqncy",
+        "lat": 42.275275,
+        "long": -71.029583,
+        "name": "North Quincy",
+        "routes": [
+            "Red"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-nubn": {
+        "id": "place-nubn",
+        "lat": 42.329544,
+        "long": -71.083982,
+        "name": "Nubian",
+        "routes": [
+            "749",
+            "751"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-nuniv": {
+        "id": "place-nuniv",
+        "lat": 42.340401,
+        "long": -71.088806,
+        "name": "Northeastern University",
+        "routes": [
+            "Green-E"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-ogmnl": {
+        "id": "place-ogmnl",
+        "lat": 42.43668,
+        "long": -71.071097,
+        "name": "Oak Grove",
+        "routes": [
+            "Orange",
+            "CR-Haverhill"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-orhte": {
+        "id": "place-orhte",
+        "lat": 42.386867,
+        "long": -71.004736,
+        "name": "Orient Heights",
+        "routes": [
+            "Blue"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-pktrm": {
+        "id": "place-pktrm",
+        "lat": 42.3563946,
+        "long": -71.0624242,
+        "name": "Park Street",
+        "routes": [
+            "Red",
+            "Green-B",
+            "Green-C",
+            "Green-D",
+            "Green-E"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-portr": {
+        "id": "place-portr",
+        "lat": 42.3884,
+        "long": -71.119149,
+        "name": "Porter",
+        "routes": [
+            "Red",
+            "CR-Fitchburg"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-prmnl": {
+        "id": "place-prmnl",
+        "lat": 42.34557,
+        "long": -71.081696,
+        "name": "Prudential",
+        "routes": [
+            "Green-E"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-qamnl": {
+        "id": "place-qamnl",
+        "lat": 42.233391,
+        "long": -71.007153,
+        "name": "Quincy Adams",
+        "routes": [
+            "Red"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-qnctr": {
+        "id": "place-qnctr",
+        "lat": 42.251809,
+        "long": -71.005409,
+        "name": "Quincy Center",
+        "routes": [
+            "Red",
+            "CR-NewBedford",
+            "CR-Greenbush",
+            "CR-Kingston"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-rbmnl": {
+        "id": "place-rbmnl",
+        "lat": 42.4078425,
+        "long": -70.9925332,
+        "name": "Revere Beach",
+        "routes": [
+            "Blue"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-rcmnl": {
+        "id": "place-rcmnl",
+        "lat": 42.331397,
+        "long": -71.095451,
+        "name": "Roxbury Crossing",
+        "routes": [
+            "Orange"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-river": {
+        "id": "place-river",
+        "lat": 42.337352,
+        "long": -71.252685,
+        "name": "Riverside",
+        "routes": [
+            "Green-D"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-rr-ceylon-park": {
+        "id": "place-rr-ceylon-park",
+        "lat": 42.3097728,
+        "long": -71.0735888,
+        "name": "Ceylon Park",
+        "routes": [
+            "CR-Fairmount"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-rr-revere-center": {
+        "id": "place-rr-revere-center",
+        "lat": 42.4154533,
+        "long": -70.9922548,
+        "name": "Revere Center",
+        "routes": [
+            "CR-Newburyport"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-rr-river-street": {
+        "id": "place-rr-river-street",
+        "lat": 42.2637601,
+        "long": -71.1045547,
+        "name": "River Street",
+        "routes": [
+            "CR-Fairmount"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-rr-south-salem": {
+        "id": "place-rr-south-salem",
+        "lat": 42.5073423,
+        "long": -70.8966044,
+        "name": "South Salem",
+        "routes": [
+            "CR-Newburyport"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-rsmnl": {
+        "id": "place-rsmnl",
+        "lat": 42.335088,
+        "long": -71.148758,
+        "name": "Reservoir",
+        "routes": [
+            "Green-D"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-rugg": {
+        "id": "place-rugg",
+        "lat": 42.336377,
+        "long": -71.088961,
+        "name": "Ruggles",
+        "routes": [
+            "Orange",
+            "CR-Franklin",
+            "CR-Needham",
+            "CR-Providence"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-rvrwy": {
+        "id": "place-rvrwy",
+        "lat": 42.331684,
+        "long": -71.111931,
+        "name": "Riverway",
+        "routes": [
+            "Green-E"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-sbmnl": {
+        "id": "place-sbmnl",
+        "lat": 42.317062,
+        "long": -71.104248,
+        "name": "Stony Brook",
+        "routes": [
+            "Orange"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-sdmnl": {
+        "id": "place-sdmnl",
+        "lat": 42.3905007,
+        "long": -70.9971226,
+        "name": "Suffolk Downs",
+        "routes": [
+            "Blue"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-shmnl": {
+        "id": "place-shmnl",
+        "lat": 42.31129,
+        "long": -71.053331,
+        "name": "Savin Hill",
+        "routes": [
+            "Red"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-smary": {
+        "id": "place-smary",
+        "lat": 42.345974,
+        "long": -71.107353,
+        "name": "Saint Mary's Street",
+        "routes": [
+            "Green-C"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-smmnl": {
+        "id": "place-smmnl",
+        "lat": 42.2931258,
+        "long": -71.065738,
+        "name": "Shawmut",
+        "routes": [
+            "Red"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-sougr": {
+        "id": "place-sougr",
+        "lat": 42.3396,
+        "long": -71.157661,
+        "name": "South Street",
+        "routes": [
+            "Green-B"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-spmnl": {
+        "id": "place-spmnl",
+        "lat": 42.366664,
+        "long": -71.067666,
+        "name": "Science Park/West End",
+        "routes": [
+            "Green-D",
+            "Green-E"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-sstat": {
+        "id": "place-sstat",
+        "lat": 42.352271,
+        "long": -71.055242,
+        "name": "South Station",
+        "routes": [
+            "Red",
+            "CR-Fairmount",
+            "CR-NewBedford",
+            "CR-Worcester",
+            "CR-Franklin",
+            "CR-Greenbush",
+            "CR-Kingston",
+            "CR-Needham",
+            "CR-Providence",
+            "CR-Foxboro",
+            "741",
+            "742",
+            "743",
+            "746"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-state": {
+        "id": "place-state",
+        "lat": 42.358978,
+        "long": -71.057598,
+        "name": "State",
+        "routes": [
+            "Orange",
+            "Blue"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-sthld": {
+        "id": "place-sthld",
+        "lat": 42.341614,
+        "long": -71.146202,
+        "name": "Sutherland Road",
+        "routes": [
+            "Green-B"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-stpul": {
+        "id": "place-stpul",
+        "lat": 42.343327,
+        "long": -71.116997,
+        "name": "Saint Paul Street",
+        "routes": [
+            "Green-C"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-sull": {
+        "id": "place-sull",
+        "lat": 42.383975,
+        "long": -71.076994,
+        "name": "Sullivan Square",
+        "routes": [
+            "Orange"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-sumav": {
+        "id": "place-sumav",
+        "lat": 42.34111,
+        "long": -71.12561,
+        "name": "Summit Avenue",
+        "routes": [
+            "Green-C"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-symcl": {
+        "id": "place-symcl",
+        "lat": 42.342687,
+        "long": -71.085056,
+        "name": "Symphony",
+        "routes": [
+            "Green-E"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-tapst": {
+        "id": "place-tapst",
+        "lat": 42.338459,
+        "long": -71.138702,
+        "name": "Tappan Street",
+        "routes": [
+            "Green-C"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-tumnl": {
+        "id": "place-tumnl",
+        "lat": 42.349662,
+        "long": -71.063917,
+        "name": "Tufts Medical Center",
+        "routes": [
+            "Orange"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-unsqu": {
+        "id": "place-unsqu",
+        "lat": 42.377359,
+        "long": -71.094761,
+        "name": "Union Square",
+        "routes": [
+            "Green-D"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-valrd": {
+        "id": "place-valrd",
+        "lat": 42.268347,
+        "long": -71.081343,
+        "name": "Valley Road",
+        "routes": [
+            "Mattapan"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-waban": {
+        "id": "place-waban",
+        "lat": 42.325845,
+        "long": -71.230609,
+        "name": "Waban",
+        "routes": [
+            "Green-D"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-wascm": {
+        "id": "place-wascm",
+        "lat": 42.343864,
+        "long": -71.142853,
+        "name": "Washington Street",
+        "routes": [
+            "Green-B"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-welln": {
+        "id": "place-welln",
+        "lat": 42.40237,
+        "long": -71.077082,
+        "name": "Wellington",
+        "routes": [
+            "Orange"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-wimnl": {
+        "id": "place-wimnl",
+        "lat": 42.3796403,
+        "long": -71.0228654,
+        "name": "Wood Island",
+        "routes": [
+            "Blue"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-wlsta": {
+        "id": "place-wlsta",
+        "lat": 42.2665139,
+        "long": -71.0203369,
+        "name": "Wollaston",
+        "routes": [
+            "Red"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-wondl": {
+        "id": "place-wondl",
+        "lat": 42.41342,
+        "long": -70.991648,
+        "name": "Wonderland",
+        "routes": [
+            "Blue"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-woodl": {
+        "id": "place-woodl",
+        "lat": 42.332902,
+        "long": -71.243362,
+        "name": "Woodland",
+        "routes": [
+            "Green-D"
+        ],
+        "wheelchair_boarding": 1
+    },
+    "place-wrnst": {
+        "id": "place-wrnst",
+        "lat": 42.348343,
+        "long": -71.140457,
+        "name": "Warren Street",
+        "routes": [
+            "Green-B"
+        ],
+        "wheelchair_boarding": 2
+    },
+    "place-wtcst": {
+        "id": "place-wtcst",
+        "lat": 42.34863,
+        "long": -71.04246,
+        "name": "World Trade Center",
+        "routes": [
+            "741",
+            "742",
+            "743",
+            "746"
+        ],
+        "wheelchair_boarding": 1
+    }
 }
