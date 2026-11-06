@@ -1,0 +1,21 @@
+[project]
+name = "station-walking-distance"
+version = "0.1.0"
+description = "Finding walking distances and times between train stations"
+authors = [{ name = "TransitMatters Labs Team" }]
+requires-python = ">=3.14,<3.15"
+dependencies = [
+    "requests~=2.32.3",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.17.3",
+]
+
+[tool.uv]
+package = false
+
+[tool.ruff]
+line-length = 120
+target-version = "py314"
